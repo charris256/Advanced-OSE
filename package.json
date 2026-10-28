@@ -1,0 +1,27 @@
+{
+  "name": "ose-character-ledger",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5174",
+    "build": "tsc && vite build && node build-offline.mjs",
+    "preview": "vite preview --host 127.0.0.1 --port 4174",
+    "test": "node --experimental-strip-types --test tests/*.test.mjs",
+    "start": "node serve.mjs",
+    "test:unit": "node --experimental-strip-types --test tests/engine.test.mjs tests/multiclass-matrix.test.mjs tests/pdf-export.test.mjs tests/random-character.test.mjs tests/magic-items.test.mjs tests/backup.test.mjs",
+    "test:browser": "node --test tests/browser.test.mjs"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "react": "19.2.7",
+    "react-dom": "19.2.7"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.17",
+    "@types/react-dom": "19.2.3",
+    "@vitejs/plugin-react": "6.0.3",
+    "typescript": "6.0.3",
+    "vite": "8.3.5"
+  }
+}

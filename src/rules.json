@@ -1,0 +1,8957 @@
+{
+  "schemaVersion": 1,
+  "id": "ose-af-2021-v1.1",
+  "version": "1.0.0",
+  "title": "Advanced Fantasy \u00b7 September 2021",
+  "classes": [
+    {
+      "id": "acrobat",
+      "name": "Acrobat",
+      "page": 28,
+      "requirements": {},
+      "prime": [
+        "DEX"
+      ],
+      "die": 4,
+      "armor": "Leather, no shields",
+      "weapons": "Missile weapons, dagger,  sword, short sword, polearm, spear, staff",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 29"
+        },
+        {
+          "level": 2,
+          "xp": 1200,
+          "hd": "2d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 29"
+        },
+        {
+          "level": 3,
+          "xp": 2400,
+          "hd": "3d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 29"
+        },
+        {
+          "level": 4,
+          "xp": 4800,
+          "hd": "4d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 29"
+        },
+        {
+          "level": 5,
+          "xp": 9600,
+          "hd": "5d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            12,
+            13,
+            11,
+            14,
+            13
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 29"
+        },
+        {
+          "level": 6,
+          "xp": 20000,
+          "hd": "6d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            12,
+            13,
+            11,
+            14,
+            13
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 29"
+        },
+        {
+          "level": 7,
+          "xp": 40000,
+          "hd": "7d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            12,
+            13,
+            11,
+            14,
+            13
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 29"
+        },
+        {
+          "level": 8,
+          "xp": 80000,
+          "hd": "8d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            12,
+            13,
+            11,
+            14,
+            13
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 29"
+        },
+        {
+          "level": 9,
+          "xp": 160000,
+          "hd": "9d4",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            10,
+            11,
+            9,
+            12,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 29"
+        },
+        {
+          "level": 10,
+          "xp": 280000,
+          "hd": "9d4+2*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            10,
+            11,
+            9,
+            12,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 29"
+        },
+        {
+          "level": 11,
+          "xp": 400000,
+          "hd": "9d4+4*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            10,
+            11,
+            9,
+            12,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 29"
+        },
+        {
+          "level": 12,
+          "xp": 520000,
+          "hd": "9d4+6*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            10,
+            11,
+            9,
+            12,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 29"
+        },
+        {
+          "level": 13,
+          "xp": 640000,
+          "hd": "9d4+8*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            8,
+            9,
+            7,
+            10,
+            8
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 29"
+        },
+        {
+          "level": 14,
+          "xp": 760000,
+          "hd": "9d4+10*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            8,
+            9,
+            7,
+            10,
+            8
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 29"
+        }
+      ],
+      "demihuman": false,
+      "features": [
+        "Evasion: retreating negates the usual enemy +2 attack bonus.",
+        "Tumbling attack: double damage; +4 to hit an unaware enemy.",
+        "Jumping, falling and tightrope abilities require movement at least 90 feet."
+      ],
+      "languages": [
+        "Alignment",
+        "Common"
+      ],
+      "skills": [
+        {
+          "labels": [
+            "CS",
+            "FA",
+            "HS",
+            "MS",
+            "TW"
+          ],
+          "rows": [
+            {
+              "level": 1,
+              "values": [
+                "87",
+                "25",
+                "10",
+                "20",
+                "60"
+              ]
+            },
+            {
+              "level": 2,
+              "values": [
+                "88",
+                "25",
+                "15",
+                "25",
+                "65"
+              ]
+            },
+            {
+              "level": 3,
+              "values": [
+                "89",
+                "25",
+                "20",
+                "30",
+                "70"
+              ]
+            },
+            {
+              "level": 4,
+              "values": [
+                "90",
+                "33",
+                "25",
+                "35",
+                "75"
+              ]
+            },
+            {
+              "level": 5,
+              "values": [
+                "91",
+                "33",
+                "30",
+                "40",
+                "80"
+              ]
+            },
+            {
+              "level": 6,
+              "values": [
+                "92",
+                "33",
+                "33",
+                "43",
+                "85"
+              ]
+            },
+            {
+              "level": 7,
+              "values": [
+                "93",
+                "33",
+                "36",
+                "46",
+                "90"
+              ]
+            },
+            {
+              "level": 8,
+              "values": [
+                "94",
+                "50",
+                "40",
+                "50",
+                "95"
+              ]
+            },
+            {
+              "level": 9,
+              "values": [
+                "95",
+                "50",
+                "43",
+                "53",
+                "99"
+              ]
+            },
+            {
+              "level": 10,
+              "values": [
+                "96",
+                "50",
+                "46",
+                "56",
+                "99"
+              ]
+            },
+            {
+              "level": 11,
+              "values": [
+                "97",
+                "50",
+                "50",
+                "60",
+                "99"
+              ]
+            },
+            {
+              "level": 12,
+              "values": [
+                "98",
+                "66",
+                "53",
+                "63",
+                "99"
+              ]
+            },
+            {
+              "level": 13,
+              "values": [
+                "99",
+                "66",
+                "56",
+                "66",
+                "99"
+              ]
+            },
+            {
+              "level": 14,
+              "values": [
+                "99",
+                "75",
+                "60",
+                "70",
+                "99"
+              ]
+            }
+          ],
+          "page": 29
+        }
+      ]
+    },
+    {
+      "id": "assassin",
+      "name": "Assassin",
+      "page": 30,
+      "requirements": {},
+      "prime": [
+        "DEX"
+      ],
+      "die": 4,
+      "armor": "Leather, shields",
+      "weapons": "Any",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 31"
+        },
+        {
+          "level": 2,
+          "xp": 1500,
+          "hd": "2d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 31"
+        },
+        {
+          "level": 3,
+          "xp": 3000,
+          "hd": "3d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 31"
+        },
+        {
+          "level": 4,
+          "xp": 6000,
+          "hd": "4d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 31"
+        },
+        {
+          "level": 5,
+          "xp": 12000,
+          "hd": "5d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            12,
+            13,
+            11,
+            14,
+            13
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 31"
+        },
+        {
+          "level": 6,
+          "xp": 25000,
+          "hd": "6d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            12,
+            13,
+            11,
+            14,
+            13
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 31"
+        },
+        {
+          "level": 7,
+          "xp": 50000,
+          "hd": "7d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            12,
+            13,
+            11,
+            14,
+            13
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 31"
+        },
+        {
+          "level": 8,
+          "xp": 100000,
+          "hd": "8d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            12,
+            13,
+            11,
+            14,
+            13
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 31"
+        },
+        {
+          "level": 9,
+          "xp": 200000,
+          "hd": "9d4",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            10,
+            11,
+            9,
+            12,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 31"
+        },
+        {
+          "level": 10,
+          "xp": 300000,
+          "hd": "9d4+2*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            10,
+            11,
+            9,
+            12,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 31"
+        },
+        {
+          "level": 11,
+          "xp": 425000,
+          "hd": "9d4+4*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            10,
+            11,
+            9,
+            12,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 31"
+        },
+        {
+          "level": 12,
+          "xp": 575000,
+          "hd": "9d4+6*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            10,
+            11,
+            9,
+            12,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 31"
+        },
+        {
+          "level": 13,
+          "xp": 750000,
+          "hd": "9d4+8*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            8,
+            9,
+            7,
+            10,
+            8
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 31"
+        },
+        {
+          "level": 14,
+          "xp": 900000,
+          "hd": "9d4+10*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            8,
+            9,
+            7,
+            10,
+            8
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 31"
+        }
+      ],
+      "demihuman": false,
+      "features": [
+        "Assassination: +4 attack from behind against an unaware eligible humanoid; death save penalty follows skill table.",
+        "Disguise: base detection chance 2%; see p. 30 for modifiers.",
+        "Poison: victim saves at -2. Hireling access depends on level."
+      ],
+      "languages": [
+        "Alignment",
+        "Common"
+      ],
+      "skills": [
+        {
+          "labels": [
+            "AS",
+            "CS",
+            "HN",
+            "HS",
+            "MS"
+          ],
+          "rows": [
+            {
+              "level": 1,
+              "values": [
+                "0",
+                "87",
+                "1\u20132",
+                "10",
+                "20"
+              ]
+            },
+            {
+              "level": 2,
+              "values": [
+                "0",
+                "88",
+                "1\u20132",
+                "15",
+                "25"
+              ]
+            },
+            {
+              "level": 3,
+              "values": [
+                "0",
+                "89",
+                "1\u20133",
+                "20",
+                "30"
+              ]
+            },
+            {
+              "level": 4,
+              "values": [
+                "\u20131",
+                "90",
+                "1\u20133",
+                "25",
+                "35"
+              ]
+            },
+            {
+              "level": 5,
+              "values": [
+                "\u20131",
+                "91",
+                "1\u20133",
+                "30",
+                "40"
+              ]
+            },
+            {
+              "level": 6,
+              "values": [
+                "\u20132",
+                "92",
+                "1\u20133",
+                "33",
+                "43"
+              ]
+            },
+            {
+              "level": 7,
+              "values": [
+                "\u20132",
+                "93",
+                "1\u20134",
+                "36",
+                "46"
+              ]
+            },
+            {
+              "level": 8,
+              "values": [
+                "\u20133",
+                "94",
+                "1\u20134",
+                "40",
+                "50"
+              ]
+            },
+            {
+              "level": 9,
+              "values": [
+                "\u20133",
+                "95",
+                "1\u20134",
+                "43",
+                "53"
+              ]
+            },
+            {
+              "level": 10,
+              "values": [
+                "\u20134",
+                "96",
+                "1\u20134",
+                "46",
+                "56"
+              ]
+            },
+            {
+              "level": 11,
+              "values": [
+                "\u20134",
+                "97",
+                "1\u20135",
+                "50",
+                "60"
+              ]
+            },
+            {
+              "level": 12,
+              "values": [
+                "\u20135",
+                "98",
+                "1\u20135",
+                "53",
+                "63"
+              ]
+            },
+            {
+              "level": 13,
+              "values": [
+                "\u20135",
+                "99",
+                "1\u20135",
+                "56",
+                "66"
+              ]
+            },
+            {
+              "level": 14,
+              "values": [
+                "\u20136",
+                "99",
+                "1\u20135",
+                "60",
+                "70"
+              ]
+            }
+          ],
+          "page": 31
+        }
+      ]
+    },
+    {
+      "id": "barbarian",
+      "name": "Barbarian",
+      "page": 32,
+      "requirements": {
+        "DEX": 9
+      },
+      "prime": [
+        "CON",
+        "STR"
+      ],
+      "die": 8,
+      "armor": "Leather, chainmail, shields",
+      "weapons": "Any",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d8",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            10,
+            13,
+            12,
+            15,
+            16
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 33"
+        },
+        {
+          "level": 2,
+          "xp": 2500,
+          "hd": "2d8",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            10,
+            13,
+            12,
+            15,
+            16
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 33"
+        },
+        {
+          "level": 3,
+          "xp": 5000,
+          "hd": "3d8",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            10,
+            13,
+            12,
+            15,
+            16
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 33"
+        },
+        {
+          "level": 4,
+          "xp": 10000,
+          "hd": "4d8",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            8,
+            11,
+            10,
+            13,
+            13
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 33"
+        },
+        {
+          "level": 5,
+          "xp": 18500,
+          "hd": "5d8",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            8,
+            11,
+            10,
+            13,
+            13
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 33"
+        },
+        {
+          "level": 6,
+          "xp": 37000,
+          "hd": "6d8",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            8,
+            11,
+            10,
+            13,
+            13
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 33"
+        },
+        {
+          "level": 7,
+          "xp": 85000,
+          "hd": "7d8",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            6,
+            9,
+            8,
+            10,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 33"
+        },
+        {
+          "level": 8,
+          "xp": 140000,
+          "hd": "8d8",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            6,
+            9,
+            8,
+            10,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 33"
+        },
+        {
+          "level": 9,
+          "xp": 270000,
+          "hd": "9d8",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            6,
+            9,
+            8,
+            10,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 33"
+        },
+        {
+          "level": 10,
+          "xp": 400000,
+          "hd": "9d8+3*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            4,
+            7,
+            6,
+            8,
+            7
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 33"
+        },
+        {
+          "level": 11,
+          "xp": 530000,
+          "hd": "9d8+6*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            4,
+            7,
+            6,
+            8,
+            7
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 33"
+        },
+        {
+          "level": 12,
+          "xp": 660000,
+          "hd": "9d8+9*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            4,
+            7,
+            6,
+            8,
+            7
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 33"
+        },
+        {
+          "level": 13,
+          "xp": 790000,
+          "hd": "9d8+12*",
+          "thaco": 10,
+          "attack": 9,
+          "saves": [
+            3,
+            5,
+            4,
+            5,
+            5
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 33"
+        },
+        {
+          "level": 14,
+          "xp": 920000,
+          "hd": "9d8+15*",
+          "thaco": 10,
+          "attack": 9,
+          "saves": [
+            3,
+            5,
+            4,
+            5,
+            5
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 33"
+        }
+      ],
+      "demihuman": false,
+      "features": [
+        "Cannot read or write at first level. Avoids arcane magic.",
+        "Forage 2-in-6; find prey when hunting 5-in-6.",
+        "Cure poison: wilderness herbal antidote permits a second save.",
+        "Level 4: strike monsters otherwise harmed only by magic; agile AC bonus begins."
+      ],
+      "languages": [
+        "Alignment",
+        "Common"
+      ],
+      "skills": [
+        {
+          "labels": [
+            "CS",
+            "HD",
+            "MS"
+          ],
+          "rows": [
+            {
+              "level": 1,
+              "values": [
+                "87",
+                "10",
+                "20"
+              ]
+            },
+            {
+              "level": 2,
+              "values": [
+                "88",
+                "15",
+                "25"
+              ]
+            },
+            {
+              "level": 3,
+              "values": [
+                "89",
+                "20",
+                "30"
+              ]
+            },
+            {
+              "level": 4,
+              "values": [
+                "90",
+                "25",
+                "35"
+              ]
+            },
+            {
+              "level": 5,
+              "values": [
+                "91",
+                "30",
+                "37"
+              ]
+            },
+            {
+              "level": 6,
+              "values": [
+                "92",
+                "33",
+                "40"
+              ]
+            },
+            {
+              "level": 7,
+              "values": [
+                "93",
+                "36",
+                "42"
+              ]
+            },
+            {
+              "level": 8,
+              "values": [
+                "94",
+                "40",
+                "44"
+              ]
+            },
+            {
+              "level": 9,
+              "values": [
+                "95",
+                "43",
+                "46"
+              ]
+            },
+            {
+              "level": 10,
+              "values": [
+                "96",
+                "46",
+                "48"
+              ]
+            },
+            {
+              "level": 11,
+              "values": [
+                "97",
+                "50",
+                "50"
+              ]
+            },
+            {
+              "level": 12,
+              "values": [
+                "98",
+                "53",
+                "50"
+              ]
+            },
+            {
+              "level": 13,
+              "values": [
+                "99",
+                "56",
+                "50"
+              ]
+            },
+            {
+              "level": 14,
+              "values": [
+                "99",
+                "60",
+                "50"
+              ]
+            }
+          ],
+          "page": 33
+        }
+      ]
+    },
+    {
+      "id": "bard",
+      "name": "Bard",
+      "page": 34,
+      "requirements": {
+        "DEX": 9,
+        "INT": 9
+      },
+      "prime": [
+        "CHA"
+      ],
+      "die": 6,
+      "armor": "Leather, chainmail, no shields",
+      "weapons": "Missile weapons, one-handed  melee weapons",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 35"
+        },
+        {
+          "level": 2,
+          "xp": 2000,
+          "hd": "2d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 35"
+        },
+        {
+          "level": 3,
+          "xp": 4000,
+          "hd": "3d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [
+            2,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 35"
+        },
+        {
+          "level": 4,
+          "xp": 8000,
+          "hd": "4d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [
+            3,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 35"
+        },
+        {
+          "level": 5,
+          "xp": 16000,
+          "hd": "5d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            12,
+            13,
+            11,
+            14,
+            13
+          ],
+          "slots": [
+            3,
+            1,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 35"
+        },
+        {
+          "level": 6,
+          "xp": 32000,
+          "hd": "6d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            12,
+            13,
+            11,
+            14,
+            13
+          ],
+          "slots": [
+            3,
+            2,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 35"
+        },
+        {
+          "level": 7,
+          "xp": 64000,
+          "hd": "7d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            12,
+            13,
+            11,
+            14,
+            13
+          ],
+          "slots": [
+            3,
+            3,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 35"
+        },
+        {
+          "level": 8,
+          "xp": 120000,
+          "hd": "8d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            12,
+            13,
+            11,
+            14,
+            13
+          ],
+          "slots": [
+            3,
+            3,
+            1,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 35"
+        },
+        {
+          "level": 9,
+          "xp": 240000,
+          "hd": "9d6",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            10,
+            11,
+            9,
+            12,
+            10
+          ],
+          "slots": [
+            3,
+            3,
+            2,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 35"
+        },
+        {
+          "level": 10,
+          "xp": 360000,
+          "hd": "9d6+2*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            10,
+            11,
+            9,
+            12,
+            10
+          ],
+          "slots": [
+            3,
+            3,
+            3,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 35"
+        },
+        {
+          "level": 11,
+          "xp": 480000,
+          "hd": "9d6+4*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            10,
+            11,
+            9,
+            12,
+            10
+          ],
+          "slots": [
+            3,
+            3,
+            3,
+            1
+          ],
+          "source": "Player\u2019s Tome p. 35"
+        },
+        {
+          "level": 12,
+          "xp": 600000,
+          "hd": "9d6+6*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            10,
+            11,
+            9,
+            12,
+            10
+          ],
+          "slots": [
+            3,
+            3,
+            3,
+            2
+          ],
+          "source": "Player\u2019s Tome p. 35"
+        },
+        {
+          "level": 13,
+          "xp": 720000,
+          "hd": "9d6+8*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            8,
+            9,
+            7,
+            10,
+            8
+          ],
+          "slots": [
+            3,
+            3,
+            3,
+            3
+          ],
+          "source": "Player\u2019s Tome p. 35"
+        },
+        {
+          "level": 14,
+          "xp": 840000,
+          "hd": "9d6+10*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            8,
+            9,
+            7,
+            10,
+            8
+          ],
+          "slots": [
+            4,
+            4,
+            3,
+            3
+          ],
+          "source": "Player\u2019s Tome p. 35"
+        }
+      ],
+      "demihuman": false,
+      "features": [
+        "Anti-charm: music protects allies within 30 feet against song magic and sylvan beguilement.",
+        "Enchantment: noncombat fascination; 2 HD of subjects per level, save versus spells.",
+        "Level 2: druidic spellcasting and lore 2-in-6.",
+        "Even levels from 4: learn an additional language."
+      ],
+      "languages": [
+        "Alignment",
+        "Common"
+      ],
+      "skills": []
+    },
+    {
+      "id": "cleric",
+      "name": "Cleric",
+      "page": 36,
+      "requirements": {},
+      "prime": [
+        "WIS"
+      ],
+      "die": 6,
+      "armor": "Any, including shields",
+      "weapons": "Any blunt weapons",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            11,
+            12,
+            14,
+            16,
+            15
+          ],
+          "slots": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 37"
+        },
+        {
+          "level": 2,
+          "xp": 1500,
+          "hd": "2d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            11,
+            12,
+            14,
+            16,
+            15
+          ],
+          "slots": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 37"
+        },
+        {
+          "level": 3,
+          "xp": 3000,
+          "hd": "3d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            11,
+            12,
+            14,
+            16,
+            15
+          ],
+          "slots": [
+            2,
+            0,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 37"
+        },
+        {
+          "level": 4,
+          "xp": 6000,
+          "hd": "4d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            11,
+            12,
+            14,
+            16,
+            15
+          ],
+          "slots": [
+            2,
+            1,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 37"
+        },
+        {
+          "level": 5,
+          "xp": 12000,
+          "hd": "5d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            9,
+            10,
+            12,
+            14,
+            12
+          ],
+          "slots": [
+            2,
+            2,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 37"
+        },
+        {
+          "level": 6,
+          "xp": 25000,
+          "hd": "6d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            9,
+            10,
+            12,
+            14,
+            12
+          ],
+          "slots": [
+            2,
+            2,
+            1,
+            1,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 37"
+        },
+        {
+          "level": 7,
+          "xp": 50000,
+          "hd": "7d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            9,
+            10,
+            12,
+            14,
+            12
+          ],
+          "slots": [
+            2,
+            2,
+            2,
+            1,
+            1
+          ],
+          "source": "Player\u2019s Tome p. 37"
+        },
+        {
+          "level": 8,
+          "xp": 100000,
+          "hd": "8d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            9,
+            10,
+            12,
+            14,
+            12
+          ],
+          "slots": [
+            3,
+            3,
+            2,
+            2,
+            1
+          ],
+          "source": "Player\u2019s Tome p. 37"
+        },
+        {
+          "level": 9,
+          "xp": 200000,
+          "hd": "9d6",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            6,
+            7,
+            9,
+            11,
+            9
+          ],
+          "slots": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "source": "Player\u2019s Tome p. 37"
+        },
+        {
+          "level": 10,
+          "xp": 300000,
+          "hd": "9d6+1*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            6,
+            7,
+            9,
+            11,
+            9
+          ],
+          "slots": [
+            4,
+            4,
+            3,
+            3,
+            2
+          ],
+          "source": "Player\u2019s Tome p. 37"
+        },
+        {
+          "level": 11,
+          "xp": 400000,
+          "hd": "9d6+2*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            6,
+            7,
+            9,
+            11,
+            9
+          ],
+          "slots": [
+            4,
+            4,
+            4,
+            3,
+            3
+          ],
+          "source": "Player\u2019s Tome p. 37"
+        },
+        {
+          "level": 12,
+          "xp": 500000,
+          "hd": "9d6+3*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            6,
+            7,
+            9,
+            11,
+            9
+          ],
+          "slots": [
+            5,
+            5,
+            4,
+            4,
+            3
+          ],
+          "source": "Player\u2019s Tome p. 37"
+        },
+        {
+          "level": 13,
+          "xp": 600000,
+          "hd": "9d6+4*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            3,
+            5,
+            7,
+            8,
+            7
+          ],
+          "slots": [
+            5,
+            5,
+            5,
+            4,
+            4
+          ],
+          "source": "Player\u2019s Tome p. 37"
+        },
+        {
+          "level": 14,
+          "xp": 700000,
+          "hd": "9d6+5*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            3,
+            5,
+            7,
+            8,
+            7
+          ],
+          "slots": [
+            6,
+            5,
+            5,
+            5,
+            4
+          ],
+          "source": "Player\u2019s Tome p. 37"
+        }
+      ],
+      "demihuman": false,
+      "features": [
+        "Turn undead: use the level-based table; roll 2d6, then 2d6 HD affected on success.",
+        "Level 2: clerical spellcasting begins.",
+        "Must carry a holy symbol and uphold deity obligations."
+      ],
+      "languages": [
+        "Alignment",
+        "Common"
+      ],
+      "skills": []
+    },
+    {
+      "id": "drow",
+      "name": "Drow",
+      "page": 38,
+      "requirements": {
+        "INT": 9
+      },
+      "prime": [
+        "STR",
+        "WIS"
+      ],
+      "die": 6,
+      "armor": "Any, including shields",
+      "weapons": "Any",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            12,
+            13,
+            13,
+            15,
+            12
+          ],
+          "slots": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 39"
+        },
+        {
+          "level": 2,
+          "xp": 4000,
+          "hd": "2d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            12,
+            13,
+            13,
+            15,
+            12
+          ],
+          "slots": [
+            2,
+            0,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 39"
+        },
+        {
+          "level": 3,
+          "xp": 8000,
+          "hd": "3d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            12,
+            13,
+            13,
+            15,
+            12
+          ],
+          "slots": [
+            2,
+            1,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 39"
+        },
+        {
+          "level": 4,
+          "xp": 16000,
+          "hd": "4d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            10,
+            11,
+            11,
+            13,
+            10
+          ],
+          "slots": [
+            2,
+            2,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 39"
+        },
+        {
+          "level": 5,
+          "xp": 32000,
+          "hd": "5d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            10,
+            11,
+            11,
+            13,
+            10
+          ],
+          "slots": [
+            2,
+            2,
+            1,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 39"
+        },
+        {
+          "level": 6,
+          "xp": 64000,
+          "hd": "6d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            10,
+            11,
+            11,
+            13,
+            10
+          ],
+          "slots": [
+            2,
+            2,
+            2,
+            1,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 39"
+        },
+        {
+          "level": 7,
+          "xp": 120000,
+          "hd": "7d6",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            9,
+            10,
+            8
+          ],
+          "slots": [
+            3,
+            3,
+            2,
+            2,
+            1
+          ],
+          "source": "Player\u2019s Tome p. 39"
+        },
+        {
+          "level": 8,
+          "xp": 250000,
+          "hd": "8d6",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            9,
+            10,
+            8
+          ],
+          "slots": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "source": "Player\u2019s Tome p. 39"
+        },
+        {
+          "level": 9,
+          "xp": 400000,
+          "hd": "9d6",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            9,
+            10,
+            8
+          ],
+          "slots": [
+            4,
+            4,
+            3,
+            3,
+            2
+          ],
+          "source": "Player\u2019s Tome p. 39"
+        },
+        {
+          "level": 10,
+          "xp": 600000,
+          "hd": "9d6+2*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            6,
+            7,
+            8,
+            8,
+            6
+          ],
+          "slots": [
+            4,
+            4,
+            4,
+            3,
+            3
+          ],
+          "source": "Player\u2019s Tome p. 39"
+        }
+      ],
+      "demihuman": true,
+      "features": [
+        "Use this race-as-class\u2019s complete abilities on the referenced class pages; racial saves are already included in its progression."
+      ],
+      "languages": [
+        "Alignment",
+        "Common",
+        "Deepcommon",
+        "Elvish",
+        "Gnomish",
+        "the secret language of spiders"
+      ],
+      "skills": []
+    },
+    {
+      "id": "druid",
+      "name": "Druid",
+      "page": 40,
+      "requirements": {},
+      "prime": [
+        "WIS"
+      ],
+      "die": 6,
+      "armor": "Leather, wooden shields",
+      "weapons": "Club, dagger, sling, spear,  staff",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            11,
+            12,
+            14,
+            16,
+            15
+          ],
+          "slots": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 41"
+        },
+        {
+          "level": 2,
+          "xp": 2000,
+          "hd": "2d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            11,
+            12,
+            14,
+            16,
+            15
+          ],
+          "slots": [
+            2,
+            0,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 41"
+        },
+        {
+          "level": 3,
+          "xp": 4000,
+          "hd": "3d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            11,
+            12,
+            14,
+            16,
+            15
+          ],
+          "slots": [
+            2,
+            1,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 41"
+        },
+        {
+          "level": 4,
+          "xp": 7500,
+          "hd": "4d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            11,
+            12,
+            14,
+            16,
+            15
+          ],
+          "slots": [
+            2,
+            2,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 41"
+        },
+        {
+          "level": 5,
+          "xp": 12500,
+          "hd": "5d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            9,
+            10,
+            12,
+            14,
+            12
+          ],
+          "slots": [
+            2,
+            2,
+            1,
+            1,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 41"
+        },
+        {
+          "level": 6,
+          "xp": 20000,
+          "hd": "6d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            9,
+            10,
+            12,
+            14,
+            12
+          ],
+          "slots": [
+            2,
+            2,
+            2,
+            1,
+            1
+          ],
+          "source": "Player\u2019s Tome p. 41"
+        },
+        {
+          "level": 7,
+          "xp": 35000,
+          "hd": "7d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            9,
+            10,
+            12,
+            14,
+            12
+          ],
+          "slots": [
+            3,
+            3,
+            2,
+            2,
+            1
+          ],
+          "source": "Player\u2019s Tome p. 41"
+        },
+        {
+          "level": 8,
+          "xp": 60000,
+          "hd": "8d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            9,
+            10,
+            12,
+            14,
+            12
+          ],
+          "slots": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "source": "Player\u2019s Tome p. 41"
+        },
+        {
+          "level": 9,
+          "xp": 90000,
+          "hd": "9d6",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            6,
+            7,
+            9,
+            11,
+            9
+          ],
+          "slots": [
+            4,
+            4,
+            3,
+            3,
+            2
+          ],
+          "source": "Player\u2019s Tome p. 41"
+        },
+        {
+          "level": 10,
+          "xp": 125000,
+          "hd": "9d6+1*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            6,
+            7,
+            9,
+            11,
+            9
+          ],
+          "slots": [
+            4,
+            4,
+            4,
+            3,
+            3
+          ],
+          "source": "Player\u2019s Tome p. 41"
+        },
+        {
+          "level": 11,
+          "xp": 200000,
+          "hd": "9d6+2*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            6,
+            7,
+            9,
+            11,
+            9
+          ],
+          "slots": [
+            5,
+            5,
+            4,
+            4,
+            3
+          ],
+          "source": "Player\u2019s Tome p. 41"
+        },
+        {
+          "level": 12,
+          "xp": 300000,
+          "hd": "9d6+3*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            6,
+            7,
+            9,
+            11,
+            9
+          ],
+          "slots": [
+            5,
+            5,
+            5,
+            4,
+            4
+          ],
+          "source": "Player\u2019s Tome p. 41"
+        },
+        {
+          "level": 13,
+          "xp": 750000,
+          "hd": "9d6+4*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            3,
+            5,
+            7,
+            8,
+            7
+          ],
+          "slots": [
+            6,
+            5,
+            5,
+            5,
+            4
+          ],
+          "source": "Player\u2019s Tome p. 41"
+        },
+        {
+          "level": 14,
+          "xp": 1500000,
+          "hd": "9d6+5*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            3,
+            5,
+            7,
+            8,
+            7
+          ],
+          "slots": [
+            6,
+            6,
+            5,
+            5,
+            5
+          ],
+          "source": "Player\u2019s Tome p. 41"
+        }
+      ],
+      "demihuman": false,
+      "features": [
+        "Fire and lightning saves +2; identify plants, animals and pure water.",
+        "Secret druidic language. Woodlands: party gets lost only on 1-in-6.",
+        "Level 3: pass without trace; a sylvan language each level from 3.",
+        "Level 7: sylvan charm immunity and shape change. Level 12+ requires a challenge."
+      ],
+      "languages": [
+        "Alignment",
+        "Common"
+      ],
+      "skills": []
+    },
+    {
+      "id": "duergar",
+      "name": "Duergar",
+      "page": 44,
+      "requirements": {
+        "CON": 9,
+        "INT": 9
+      },
+      "prime": [
+        "STR"
+      ],
+      "die": 6,
+      "armor": "Any, including shields",
+      "weapons": "Small or normal sized",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            8,
+            9,
+            10,
+            13,
+            12
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 45"
+        },
+        {
+          "level": 2,
+          "xp": 2800,
+          "hd": "2d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            8,
+            9,
+            10,
+            13,
+            12
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 45"
+        },
+        {
+          "level": 3,
+          "xp": 5600,
+          "hd": "3d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            8,
+            9,
+            10,
+            13,
+            12
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 45"
+        },
+        {
+          "level": 4,
+          "xp": 11200,
+          "hd": "4d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            6,
+            7,
+            8,
+            10,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 45"
+        },
+        {
+          "level": 5,
+          "xp": 23000,
+          "hd": "5d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            6,
+            7,
+            8,
+            10,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 45"
+        },
+        {
+          "level": 6,
+          "xp": 46000,
+          "hd": "6d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            6,
+            7,
+            8,
+            10,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 45"
+        },
+        {
+          "level": 7,
+          "xp": 100000,
+          "hd": "7d6",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 45"
+        },
+        {
+          "level": 8,
+          "xp": 200000,
+          "hd": "8d6",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 45"
+        },
+        {
+          "level": 9,
+          "xp": 300000,
+          "hd": "9d6",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 45"
+        },
+        {
+          "level": 10,
+          "xp": 400000,
+          "hd": "9d6+3*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            2,
+            3,
+            4,
+            4,
+            6
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 45"
+        }
+      ],
+      "demihuman": true,
+      "features": [
+        "Use this race-as-class\u2019s complete abilities on the referenced class pages; racial saves are already included in its progression."
+      ],
+      "languages": [
+        "Alignment",
+        "Common",
+        "Deepcommon",
+        "Dwarvish",
+        "Gnomish",
+        "Goblin",
+        "Kobold"
+      ],
+      "skills": []
+    },
+    {
+      "id": "dwarf",
+      "name": "Dwarf",
+      "page": 46,
+      "requirements": {
+        "CON": 9
+      },
+      "prime": [
+        "STR"
+      ],
+      "die": 8,
+      "armor": "Any, including shields",
+      "weapons": "Small or normal sized",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d8",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            8,
+            9,
+            10,
+            13,
+            12
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 47"
+        },
+        {
+          "level": 2,
+          "xp": 2200,
+          "hd": "2d8",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            8,
+            9,
+            10,
+            13,
+            12
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 47"
+        },
+        {
+          "level": 3,
+          "xp": 4400,
+          "hd": "3d8",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            8,
+            9,
+            10,
+            13,
+            12
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 47"
+        },
+        {
+          "level": 4,
+          "xp": 8800,
+          "hd": "4d8",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            6,
+            7,
+            8,
+            10,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 47"
+        },
+        {
+          "level": 5,
+          "xp": 17000,
+          "hd": "5d8",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            6,
+            7,
+            8,
+            10,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 47"
+        },
+        {
+          "level": 6,
+          "xp": 35000,
+          "hd": "6d8",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            6,
+            7,
+            8,
+            10,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 47"
+        },
+        {
+          "level": 7,
+          "xp": 70000,
+          "hd": "7d8",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 47"
+        },
+        {
+          "level": 8,
+          "xp": 140000,
+          "hd": "8d8",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 47"
+        },
+        {
+          "level": 9,
+          "xp": 270000,
+          "hd": "9d8",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 47"
+        },
+        {
+          "level": 10,
+          "xp": 400000,
+          "hd": "9d8+3*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            2,
+            3,
+            4,
+            4,
+            6
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 47"
+        },
+        {
+          "level": 11,
+          "xp": 530000,
+          "hd": "9d8+6*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            2,
+            3,
+            4,
+            4,
+            6
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 47"
+        },
+        {
+          "level": 12,
+          "xp": 660000,
+          "hd": "9d8+9*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            2,
+            3,
+            4,
+            4,
+            6
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 47"
+        }
+      ],
+      "demihuman": true,
+      "features": [
+        "Construction tricks and room traps 2-in-6; listen 2-in-6.",
+        "Infravision 60 feet; small weapon restrictions. Racial resilience is already in the class save table."
+      ],
+      "languages": [
+        "Alignment",
+        "Common",
+        "Dwarvish",
+        "Gnomish",
+        "Goblin",
+        "Kobold"
+      ],
+      "skills": []
+    },
+    {
+      "id": "elf",
+      "name": "Elf",
+      "page": 48,
+      "requirements": {
+        "INT": 9
+      },
+      "prime": [
+        "INT",
+        "STR"
+      ],
+      "die": 6,
+      "armor": "Any, including shields",
+      "weapons": "Any",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            12,
+            13,
+            13,
+            15,
+            15
+          ],
+          "slots": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 49"
+        },
+        {
+          "level": 2,
+          "xp": 4000,
+          "hd": "2d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            12,
+            13,
+            13,
+            15,
+            15
+          ],
+          "slots": [
+            2,
+            0,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 49"
+        },
+        {
+          "level": 3,
+          "xp": 8000,
+          "hd": "3d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            12,
+            13,
+            13,
+            15,
+            15
+          ],
+          "slots": [
+            2,
+            1,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 49"
+        },
+        {
+          "level": 4,
+          "xp": 16000,
+          "hd": "4d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            10,
+            11,
+            11,
+            13,
+            12
+          ],
+          "slots": [
+            2,
+            2,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 49"
+        },
+        {
+          "level": 5,
+          "xp": 32000,
+          "hd": "5d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            10,
+            11,
+            11,
+            13,
+            12
+          ],
+          "slots": [
+            2,
+            2,
+            1,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 49"
+        },
+        {
+          "level": 6,
+          "xp": 64000,
+          "hd": "6d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            10,
+            11,
+            11,
+            13,
+            12
+          ],
+          "slots": [
+            2,
+            2,
+            2,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 49"
+        },
+        {
+          "level": 7,
+          "xp": 120000,
+          "hd": "7d6",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            9,
+            10,
+            10
+          ],
+          "slots": [
+            3,
+            2,
+            2,
+            1,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 49"
+        },
+        {
+          "level": 8,
+          "xp": 250000,
+          "hd": "8d6",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            9,
+            10,
+            10
+          ],
+          "slots": [
+            3,
+            3,
+            2,
+            2,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 49"
+        },
+        {
+          "level": 9,
+          "xp": 400000,
+          "hd": "9d6",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            9,
+            10,
+            10
+          ],
+          "slots": [
+            3,
+            3,
+            3,
+            2,
+            1
+          ],
+          "source": "Player\u2019s Tome p. 49"
+        },
+        {
+          "level": 10,
+          "xp": 600000,
+          "hd": "9d6+2*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            6,
+            7,
+            8,
+            8,
+            8
+          ],
+          "slots": [
+            3,
+            3,
+            3,
+            3,
+            2
+          ],
+          "source": "Player\u2019s Tome p. 49"
+        }
+      ],
+      "demihuman": true,
+      "features": [
+        "Secret doors 2-in-6 when searching; listen 2-in-6. Infravision 60 feet.",
+        "Ghoul paralysis immunity. Arcane spells use a standard spell book."
+      ],
+      "languages": [
+        "Alignment",
+        "Common",
+        "Elvish",
+        "Gnoll",
+        "Hobgoblin",
+        "Orcish"
+      ],
+      "skills": []
+    },
+    {
+      "id": "fighter",
+      "name": "Fighter",
+      "page": 50,
+      "requirements": {},
+      "prime": [
+        "STR"
+      ],
+      "die": 8,
+      "armor": "Any, including shields",
+      "weapons": "Any",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d8",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 51"
+        },
+        {
+          "level": 2,
+          "xp": 2000,
+          "hd": "2d8",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 51"
+        },
+        {
+          "level": 3,
+          "xp": 4000,
+          "hd": "3d8",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 51"
+        },
+        {
+          "level": 4,
+          "xp": 8000,
+          "hd": "4d8",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 51"
+        },
+        {
+          "level": 5,
+          "xp": 16000,
+          "hd": "5d8",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 51"
+        },
+        {
+          "level": 6,
+          "xp": 32000,
+          "hd": "6d8",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 51"
+        },
+        {
+          "level": 7,
+          "xp": 64000,
+          "hd": "7d8",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            10,
+            10,
+            12
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 51"
+        },
+        {
+          "level": 8,
+          "xp": 120000,
+          "hd": "8d8",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            10,
+            10,
+            12
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 51"
+        },
+        {
+          "level": 9,
+          "xp": 240000,
+          "hd": "9d8",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            10,
+            10,
+            12
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 51"
+        },
+        {
+          "level": 10,
+          "xp": 360000,
+          "hd": "9d8+2*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            6,
+            7,
+            8,
+            8,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 51"
+        },
+        {
+          "level": 11,
+          "xp": 480000,
+          "hd": "9d8+4*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            6,
+            7,
+            8,
+            8,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 51"
+        },
+        {
+          "level": 12,
+          "xp": 600000,
+          "hd": "9d8+6*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            6,
+            7,
+            8,
+            8,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 51"
+        },
+        {
+          "level": 13,
+          "xp": 720000,
+          "hd": "9d8+8*",
+          "thaco": 10,
+          "attack": 9,
+          "saves": [
+            4,
+            5,
+            6,
+            5,
+            8
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 51"
+        },
+        {
+          "level": 14,
+          "xp": 840000,
+          "hd": "9d8+10*",
+          "thaco": 10,
+          "attack": 9,
+          "saves": [
+            4,
+            5,
+            6,
+            5,
+            8
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 51"
+        }
+      ],
+      "demihuman": false,
+      "features": [
+        "All weapons, armour and shields permitted.",
+        "Stronghold construction is possible with sufficient wealth."
+      ],
+      "languages": [
+        "Alignment",
+        "Common"
+      ],
+      "skills": []
+    },
+    {
+      "id": "gnome",
+      "name": "Gnome",
+      "page": 52,
+      "requirements": {
+        "CON": 9
+      },
+      "prime": [
+        "DEX",
+        "INT"
+      ],
+      "die": 4,
+      "armor": "Leather, shields",
+      "weapons": "Any appropriate to size",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            8,
+            9,
+            10,
+            14,
+            11
+          ],
+          "slots": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 53"
+        },
+        {
+          "level": 2,
+          "xp": 3000,
+          "hd": "2d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            8,
+            9,
+            10,
+            14,
+            11
+          ],
+          "slots": [
+            2,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 53"
+        },
+        {
+          "level": 3,
+          "xp": 6000,
+          "hd": "3d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            8,
+            9,
+            10,
+            14,
+            11
+          ],
+          "slots": [
+            2,
+            1,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 53"
+        },
+        {
+          "level": 4,
+          "xp": 12000,
+          "hd": "4d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            8,
+            9,
+            10,
+            14,
+            11
+          ],
+          "slots": [
+            2,
+            2,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 53"
+        },
+        {
+          "level": 5,
+          "xp": 30000,
+          "hd": "5d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            8,
+            9,
+            10,
+            14,
+            11
+          ],
+          "slots": [
+            2,
+            2,
+            1,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 53"
+        },
+        {
+          "level": 6,
+          "xp": 60000,
+          "hd": "6d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            6,
+            7,
+            8,
+            11,
+            9
+          ],
+          "slots": [
+            2,
+            2,
+            2,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 53"
+        },
+        {
+          "level": 7,
+          "xp": 120000,
+          "hd": "7d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            6,
+            7,
+            8,
+            11,
+            9
+          ],
+          "slots": [
+            3,
+            2,
+            2,
+            1
+          ],
+          "source": "Player\u2019s Tome p. 53"
+        },
+        {
+          "level": 8,
+          "xp": 240000,
+          "hd": "8d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            6,
+            7,
+            8,
+            11,
+            9
+          ],
+          "slots": [
+            3,
+            3,
+            2,
+            2
+          ],
+          "source": "Player\u2019s Tome p. 53"
+        }
+      ],
+      "demihuman": true,
+      "features": [
+        "Use this race-as-class\u2019s complete abilities on the referenced class pages; racial saves are already included in its progression."
+      ],
+      "languages": [
+        "Alignment",
+        "Common",
+        "Gnomish",
+        "Dwarvish",
+        "Kobold",
+        "the secret language of burrowing mammals"
+      ],
+      "skills": []
+    },
+    {
+      "id": "half-elf",
+      "name": "Half-Elf",
+      "page": 54,
+      "requirements": {
+        "CHA": 9,
+        "CON": 9
+      },
+      "prime": [
+        "INT",
+        "STR"
+      ],
+      "die": 6,
+      "armor": "Any, including shields",
+      "weapons": "Any",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            12,
+            13,
+            13,
+            15,
+            15
+          ],
+          "slots": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 55"
+        },
+        {
+          "level": 2,
+          "xp": 2500,
+          "hd": "2d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            12,
+            13,
+            13,
+            15,
+            15
+          ],
+          "slots": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 55"
+        },
+        {
+          "level": 3,
+          "xp": 5000,
+          "hd": "3d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            12,
+            13,
+            13,
+            15,
+            15
+          ],
+          "slots": [
+            2,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 55"
+        },
+        {
+          "level": 4,
+          "xp": 10000,
+          "hd": "4d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            10,
+            11,
+            11,
+            13,
+            12
+          ],
+          "slots": [
+            2,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 55"
+        },
+        {
+          "level": 5,
+          "xp": 20000,
+          "hd": "5d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            10,
+            11,
+            11,
+            13,
+            12
+          ],
+          "slots": [
+            2,
+            1,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 55"
+        },
+        {
+          "level": 6,
+          "xp": 40000,
+          "hd": "6d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            10,
+            11,
+            11,
+            13,
+            12
+          ],
+          "slots": [
+            2,
+            2,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 55"
+        },
+        {
+          "level": 7,
+          "xp": 80000,
+          "hd": "7d6",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            9,
+            10,
+            10
+          ],
+          "slots": [
+            2,
+            2,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 55"
+        },
+        {
+          "level": 8,
+          "xp": 150000,
+          "hd": "8d6",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            9,
+            10,
+            10
+          ],
+          "slots": [
+            2,
+            2,
+            1,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 55"
+        },
+        {
+          "level": 9,
+          "xp": 300000,
+          "hd": "9d6",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            9,
+            10,
+            10
+          ],
+          "slots": [
+            3,
+            2,
+            1,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 55"
+        },
+        {
+          "level": 10,
+          "xp": 450000,
+          "hd": "9d6+2*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            6,
+            7,
+            8,
+            8,
+            8
+          ],
+          "slots": [
+            3,
+            2,
+            2,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 55"
+        },
+        {
+          "level": 11,
+          "xp": 600000,
+          "hd": "9d6+4*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            6,
+            7,
+            8,
+            8,
+            8
+          ],
+          "slots": [
+            3,
+            2,
+            2,
+            1
+          ],
+          "source": "Player\u2019s Tome p. 55"
+        },
+        {
+          "level": 12,
+          "xp": 750000,
+          "hd": "9d6+6*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            6,
+            7,
+            8,
+            8,
+            8
+          ],
+          "slots": [
+            3,
+            3,
+            2,
+            1
+          ],
+          "source": "Player\u2019s Tome p. 55"
+        }
+      ],
+      "demihuman": true,
+      "features": [
+        "Use this race-as-class\u2019s complete abilities on the referenced class pages; racial saves are already included in its progression."
+      ],
+      "languages": [
+        "Alignment",
+        "Common",
+        "Elvish"
+      ],
+      "skills": []
+    },
+    {
+      "id": "halfling",
+      "name": "Halfling",
+      "page": 56,
+      "requirements": {
+        "CON": 9,
+        "DEX": 9
+      },
+      "prime": [
+        "DEX",
+        "STR"
+      ],
+      "die": 6,
+      "armor": "Any appropriate to size,  including shields",
+      "weapons": "Any appropriate to size",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            8,
+            9,
+            10,
+            13,
+            12
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 57"
+        },
+        {
+          "level": 2,
+          "xp": 2000,
+          "hd": "2d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            8,
+            9,
+            10,
+            13,
+            12
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 57"
+        },
+        {
+          "level": 3,
+          "xp": 4000,
+          "hd": "3d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            8,
+            9,
+            10,
+            13,
+            12
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 57"
+        },
+        {
+          "level": 4,
+          "xp": 8000,
+          "hd": "4d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            6,
+            7,
+            8,
+            10,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 57"
+        },
+        {
+          "level": 5,
+          "xp": 16000,
+          "hd": "5d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            6,
+            7,
+            8,
+            10,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 57"
+        },
+        {
+          "level": 6,
+          "xp": 32000,
+          "hd": "6d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            6,
+            7,
+            8,
+            10,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 57"
+        },
+        {
+          "level": 7,
+          "xp": 64000,
+          "hd": "7d6",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 57"
+        },
+        {
+          "level": 8,
+          "xp": 120000,
+          "hd": "8d6",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 57"
+        }
+      ],
+      "demihuman": true,
+      "features": [
+        "Hiding while still: wilderness cover 90%, dungeon cover 2-in-6.",
+        "Listen 2-in-6; missile attacks +1; individual initiative +1.",
+        "AC improves by 2 against larger-than-human foes. Resilience is already in the class save table."
+      ],
+      "languages": [
+        "Alignment",
+        "Common",
+        "Halfling"
+      ],
+      "skills": []
+    },
+    {
+      "id": "half-orc",
+      "name": "Half-Orc",
+      "page": 60,
+      "requirements": {},
+      "prime": [
+        "DEX",
+        "STR"
+      ],
+      "die": 6,
+      "armor": "Leather, chainmail, shields",
+      "weapons": "Any",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 61"
+        },
+        {
+          "level": 2,
+          "xp": 1800,
+          "hd": "2d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 61"
+        },
+        {
+          "level": 3,
+          "xp": 3600,
+          "hd": "3d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 61"
+        },
+        {
+          "level": 4,
+          "xp": 7000,
+          "hd": "4d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 61"
+        },
+        {
+          "level": 5,
+          "xp": 14000,
+          "hd": "5d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            12,
+            13,
+            11,
+            14,
+            13
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 61"
+        },
+        {
+          "level": 6,
+          "xp": 28000,
+          "hd": "6d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            12,
+            13,
+            11,
+            14,
+            13
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 61"
+        },
+        {
+          "level": 7,
+          "xp": 60000,
+          "hd": "7d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            12,
+            13,
+            11,
+            14,
+            13
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 61"
+        },
+        {
+          "level": 8,
+          "xp": 120000,
+          "hd": "8d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            12,
+            13,
+            11,
+            14,
+            13
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 61"
+        }
+      ],
+      "demihuman": true,
+      "features": [
+        "Use this race-as-class\u2019s complete abilities on the referenced class pages; racial saves are already included in its progression."
+      ],
+      "languages": [
+        "Alignment",
+        "Common",
+        "Orcish"
+      ],
+      "skills": [
+        {
+          "labels": [
+            "HS",
+            "MS",
+            "PP"
+          ],
+          "rows": [
+            {
+              "level": 1,
+              "values": [
+                "10",
+                "20",
+                "20"
+              ]
+            },
+            {
+              "level": 2,
+              "values": [
+                "15",
+                "25",
+                "25"
+              ]
+            },
+            {
+              "level": 3,
+              "values": [
+                "20",
+                "30",
+                "30"
+              ]
+            },
+            {
+              "level": 4,
+              "values": [
+                "25",
+                "35",
+                "35"
+              ]
+            },
+            {
+              "level": 5,
+              "values": [
+                "30",
+                "40",
+                "40"
+              ]
+            },
+            {
+              "level": 6,
+              "values": [
+                "36",
+                "45",
+                "45"
+              ]
+            },
+            {
+              "level": 7,
+              "values": [
+                "45",
+                "55",
+                "55"
+              ]
+            },
+            {
+              "level": 8,
+              "values": [
+                "55",
+                "65",
+                "65"
+              ]
+            }
+          ],
+          "page": 61
+        }
+      ]
+    },
+    {
+      "id": "illusionist",
+      "name": "Illusionist",
+      "page": 62,
+      "requirements": {
+        "DEX": 9
+      },
+      "prime": [
+        "INT"
+      ],
+      "die": 4,
+      "armor": "None",
+      "weapons": "Dagger, staff (optional)",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 63"
+        },
+        {
+          "level": 2,
+          "xp": 2500,
+          "hd": "2d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [
+            2,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 63"
+        },
+        {
+          "level": 3,
+          "xp": 5000,
+          "hd": "3d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [
+            2,
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 63"
+        },
+        {
+          "level": 4,
+          "xp": 10000,
+          "hd": "4d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [
+            2,
+            2,
+            0,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 63"
+        },
+        {
+          "level": 5,
+          "xp": 20000,
+          "hd": "5d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [
+            2,
+            2,
+            1,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 63"
+        },
+        {
+          "level": 6,
+          "xp": 40000,
+          "hd": "6d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            11,
+            12,
+            11,
+            14,
+            12
+          ],
+          "slots": [
+            2,
+            2,
+            2,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 63"
+        },
+        {
+          "level": 7,
+          "xp": 80000,
+          "hd": "7d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            11,
+            12,
+            11,
+            14,
+            12
+          ],
+          "slots": [
+            3,
+            2,
+            2,
+            1,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 63"
+        },
+        {
+          "level": 8,
+          "xp": 150000,
+          "hd": "8d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            11,
+            12,
+            11,
+            14,
+            12
+          ],
+          "slots": [
+            3,
+            3,
+            2,
+            2,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 63"
+        },
+        {
+          "level": 9,
+          "xp": 300000,
+          "hd": "9d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            11,
+            12,
+            11,
+            14,
+            12
+          ],
+          "slots": [
+            3,
+            3,
+            3,
+            2,
+            1,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 63"
+        },
+        {
+          "level": 10,
+          "xp": 450000,
+          "hd": "9d4+1*",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            11,
+            12,
+            11,
+            14,
+            12
+          ],
+          "slots": [
+            3,
+            3,
+            3,
+            3,
+            2,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 63"
+        },
+        {
+          "level": 11,
+          "xp": 600000,
+          "hd": "9d4+2*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            8,
+            11,
+            8
+          ],
+          "slots": [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1
+          ],
+          "source": "Player\u2019s Tome p. 63"
+        },
+        {
+          "level": 12,
+          "xp": 750000,
+          "hd": "9d4+3*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            8,
+            11,
+            8
+          ],
+          "slots": [
+            4,
+            4,
+            3,
+            3,
+            3,
+            2
+          ],
+          "source": "Player\u2019s Tome p. 63"
+        },
+        {
+          "level": 13,
+          "xp": 900000,
+          "hd": "9d4+4*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            8,
+            11,
+            8
+          ],
+          "slots": [
+            4,
+            4,
+            4,
+            3,
+            3,
+            3
+          ],
+          "source": "Player\u2019s Tome p. 63"
+        },
+        {
+          "level": 14,
+          "xp": 1050000,
+          "hd": "9d4+5*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            8,
+            11,
+            8
+          ],
+          "slots": [
+            4,
+            4,
+            4,
+            4,
+            3,
+            3
+          ],
+          "source": "Player\u2019s Tome p. 63"
+        }
+      ],
+      "demihuman": false,
+      "features": [
+        "Standard spell book: capacity equals spells memorized at each spell level.",
+        "Cannot use magic items that deal direct damage."
+      ],
+      "languages": [
+        "Alignment",
+        "Common"
+      ],
+      "skills": []
+    },
+    {
+      "id": "knight",
+      "name": "Knight",
+      "page": 64,
+      "requirements": {
+        "CON": 9,
+        "DEX": 9
+      },
+      "prime": [
+        "STR"
+      ],
+      "die": 8,
+      "armor": "Chainmail, plate mail, shields",
+      "weapons": "Melee weapons",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d8",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 65"
+        },
+        {
+          "level": 2,
+          "xp": 2500,
+          "hd": "2d8",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 65"
+        },
+        {
+          "level": 3,
+          "xp": 5000,
+          "hd": "3d8",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 65"
+        },
+        {
+          "level": 4,
+          "xp": 10000,
+          "hd": "4d8",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 65"
+        },
+        {
+          "level": 5,
+          "xp": 18500,
+          "hd": "5d8",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 65"
+        },
+        {
+          "level": 6,
+          "xp": 37000,
+          "hd": "6d8",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 65"
+        },
+        {
+          "level": 7,
+          "xp": 85000,
+          "hd": "7d8",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            10,
+            10,
+            12
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 65"
+        },
+        {
+          "level": 8,
+          "xp": 140000,
+          "hd": "8d8",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            10,
+            10,
+            12
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 65"
+        },
+        {
+          "level": 9,
+          "xp": 270000,
+          "hd": "9d8",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            10,
+            10,
+            12
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 65"
+        },
+        {
+          "level": 10,
+          "xp": 400000,
+          "hd": "9d8+2*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            6,
+            7,
+            8,
+            8,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 65"
+        },
+        {
+          "level": 11,
+          "xp": 530000,
+          "hd": "9d8+4*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            6,
+            7,
+            8,
+            8,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 65"
+        },
+        {
+          "level": 12,
+          "xp": 660000,
+          "hd": "9d8+6*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            6,
+            7,
+            8,
+            8,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 65"
+        },
+        {
+          "level": 13,
+          "xp": 790000,
+          "hd": "9d8+8*",
+          "thaco": 10,
+          "attack": 9,
+          "saves": [
+            4,
+            5,
+            6,
+            5,
+            8
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 65"
+        },
+        {
+          "level": 14,
+          "xp": 920000,
+          "hd": "9d8+10*",
+          "thaco": 10,
+          "attack": 9,
+          "saves": [
+            4,
+            5,
+            6,
+            5,
+            8
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 65"
+        }
+      ],
+      "demihuman": false,
+      "features": [
+        "Must follow the liege\u2019s alignment and chivalric code.",
+        "Mounted attack rolls +1. Immune to supernatural fear.",
+        "Saves versus beguilement +4; illusions +2; may save against sleep.",
+        "Level 3: hospitality and fear protection for nearby companions."
+      ],
+      "languages": [
+        "Alignment",
+        "Common"
+      ],
+      "skills": []
+    },
+    {
+      "id": "magic-user",
+      "name": "Magic-User",
+      "page": 66,
+      "requirements": {},
+      "prime": [
+        "INT"
+      ],
+      "die": 4,
+      "armor": "None",
+      "weapons": "Dagger, staff (optional)",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 67"
+        },
+        {
+          "level": 2,
+          "xp": 2500,
+          "hd": "2d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [
+            2,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 67"
+        },
+        {
+          "level": 3,
+          "xp": 5000,
+          "hd": "3d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [
+            2,
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 67"
+        },
+        {
+          "level": 4,
+          "xp": 10000,
+          "hd": "4d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [
+            2,
+            2,
+            0,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 67"
+        },
+        {
+          "level": 5,
+          "xp": 20000,
+          "hd": "5d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [
+            2,
+            2,
+            1,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 67"
+        },
+        {
+          "level": 6,
+          "xp": 40000,
+          "hd": "6d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            11,
+            12,
+            11,
+            14,
+            12
+          ],
+          "slots": [
+            2,
+            2,
+            2,
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 67"
+        },
+        {
+          "level": 7,
+          "xp": 80000,
+          "hd": "7d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            11,
+            12,
+            11,
+            14,
+            12
+          ],
+          "slots": [
+            3,
+            2,
+            2,
+            1,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 67"
+        },
+        {
+          "level": 8,
+          "xp": 150000,
+          "hd": "8d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            11,
+            12,
+            11,
+            14,
+            12
+          ],
+          "slots": [
+            3,
+            3,
+            2,
+            2,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 67"
+        },
+        {
+          "level": 9,
+          "xp": 300000,
+          "hd": "9d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            11,
+            12,
+            11,
+            14,
+            12
+          ],
+          "slots": [
+            3,
+            3,
+            3,
+            2,
+            1,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 67"
+        },
+        {
+          "level": 10,
+          "xp": 450000,
+          "hd": "9d4+1*",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            11,
+            12,
+            11,
+            14,
+            12
+          ],
+          "slots": [
+            3,
+            3,
+            3,
+            3,
+            2,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 67"
+        },
+        {
+          "level": 11,
+          "xp": 600000,
+          "hd": "9d4+2*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            8,
+            11,
+            8
+          ],
+          "slots": [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1
+          ],
+          "source": "Player\u2019s Tome p. 67"
+        },
+        {
+          "level": 12,
+          "xp": 750000,
+          "hd": "9d4+3*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            8,
+            11,
+            8
+          ],
+          "slots": [
+            4,
+            4,
+            3,
+            3,
+            3,
+            2
+          ],
+          "source": "Player\u2019s Tome p. 67"
+        },
+        {
+          "level": 13,
+          "xp": 900000,
+          "hd": "9d4+4*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            8,
+            11,
+            8
+          ],
+          "slots": [
+            4,
+            4,
+            4,
+            3,
+            3,
+            3
+          ],
+          "source": "Player\u2019s Tome p. 67"
+        },
+        {
+          "level": 14,
+          "xp": 1050000,
+          "hd": "9d4+5*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            8,
+            11,
+            8
+          ],
+          "slots": [
+            4,
+            4,
+            4,
+            4,
+            3,
+            3
+          ],
+          "source": "Player\u2019s Tome p. 67"
+        }
+      ],
+      "demihuman": false,
+      "features": [
+        "Standard spell book: capacity equals spells memorized at each spell level.",
+        "At first level, one spell selected with referee approval."
+      ],
+      "languages": [
+        "Alignment",
+        "Common"
+      ],
+      "skills": []
+    },
+    {
+      "id": "paladin",
+      "name": "Paladin",
+      "page": 68,
+      "requirements": {
+        "CHA": 9
+      },
+      "prime": [
+        "STR",
+        "WIS"
+      ],
+      "die": 8,
+      "armor": "Any, including shields",
+      "weapons": "Any",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d8",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "slots": [
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 69"
+        },
+        {
+          "level": 2,
+          "xp": 2750,
+          "hd": "2d8",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "slots": [
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 69"
+        },
+        {
+          "level": 3,
+          "xp": 5500,
+          "hd": "3d8",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "slots": [
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 69"
+        },
+        {
+          "level": 4,
+          "xp": 12000,
+          "hd": "4d8",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "slots": [
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 69"
+        },
+        {
+          "level": 5,
+          "xp": 24000,
+          "hd": "5d8",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "slots": [
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 69"
+        },
+        {
+          "level": 6,
+          "xp": 45000,
+          "hd": "6d8",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "slots": [
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 69"
+        },
+        {
+          "level": 7,
+          "xp": 95000,
+          "hd": "7d8",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            6,
+            7,
+            8,
+            8,
+            10
+          ],
+          "slots": [
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 69"
+        },
+        {
+          "level": 8,
+          "xp": 175000,
+          "hd": "8d8",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            6,
+            7,
+            8,
+            8,
+            10
+          ],
+          "slots": [
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 69"
+        },
+        {
+          "level": 9,
+          "xp": 350000,
+          "hd": "9d8",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            6,
+            7,
+            8,
+            8,
+            10
+          ],
+          "slots": [
+            1,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 69"
+        },
+        {
+          "level": 10,
+          "xp": 500000,
+          "hd": "9d8+2*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            4,
+            5,
+            6,
+            6,
+            8
+          ],
+          "slots": [
+            2,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 69"
+        },
+        {
+          "level": 11,
+          "xp": 650000,
+          "hd": "9d8+4*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            4,
+            5,
+            6,
+            6,
+            8
+          ],
+          "slots": [
+            2,
+            1,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 69"
+        },
+        {
+          "level": 12,
+          "xp": 800000,
+          "hd": "9d8+6*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            4,
+            5,
+            6,
+            6,
+            8
+          ],
+          "slots": [
+            2,
+            2,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 69"
+        },
+        {
+          "level": 13,
+          "xp": 950000,
+          "hd": "9d8+8*",
+          "thaco": 10,
+          "attack": 9,
+          "saves": [
+            2,
+            3,
+            4,
+            3,
+            6
+          ],
+          "slots": [
+            2,
+            2,
+            1
+          ],
+          "source": "Player\u2019s Tome p. 69"
+        },
+        {
+          "level": 14,
+          "xp": 1100000,
+          "hd": "9d8+10*",
+          "thaco": 10,
+          "attack": 9,
+          "saves": [
+            2,
+            3,
+            4,
+            3,
+            6
+          ],
+          "slots": [
+            3,
+            2,
+            1
+          ],
+          "source": "Player\u2019s Tome p. 69"
+        }
+      ],
+      "demihuman": false,
+      "features": [
+        "Lawful only; disease immunity.",
+        "Laying on hands: heal 2 HP per level once daily.",
+        "Donate 10% of income; magical possessions limited by vow.",
+        "Level 3: turn undead. Level 4: holy warhorse. Level 9: cleric spells."
+      ],
+      "languages": [
+        "Alignment",
+        "Common"
+      ],
+      "skills": []
+    },
+    {
+      "id": "ranger",
+      "name": "Ranger",
+      "page": 70,
+      "requirements": {
+        "CON": 9,
+        "WIS": 9
+      },
+      "prime": [
+        "STR"
+      ],
+      "die": 8,
+      "armor": "Leather, chainmail, shields",
+      "weapons": "Any",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d8",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "slots": [
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 71"
+        },
+        {
+          "level": 2,
+          "xp": 2250,
+          "hd": "2d8",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "slots": [
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 71"
+        },
+        {
+          "level": 3,
+          "xp": 4500,
+          "hd": "3d8",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "slots": [
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 71"
+        },
+        {
+          "level": 4,
+          "xp": 10000,
+          "hd": "4d8",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "slots": [
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 71"
+        },
+        {
+          "level": 5,
+          "xp": 20000,
+          "hd": "5d8",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "slots": [
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 71"
+        },
+        {
+          "level": 6,
+          "xp": 40000,
+          "hd": "6d8",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "slots": [
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 71"
+        },
+        {
+          "level": 7,
+          "xp": 90000,
+          "hd": "7d8",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            10,
+            10,
+            12
+          ],
+          "slots": [
+            0,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 71"
+        },
+        {
+          "level": 8,
+          "xp": 150000,
+          "hd": "8d8",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            10,
+            10,
+            12
+          ],
+          "slots": [
+            1,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 71"
+        },
+        {
+          "level": 9,
+          "xp": 300000,
+          "hd": "9d8",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            8,
+            9,
+            10,
+            10,
+            12
+          ],
+          "slots": [
+            2,
+            0,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 71"
+        },
+        {
+          "level": 10,
+          "xp": 425000,
+          "hd": "9d8+2*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            6,
+            7,
+            8,
+            8,
+            10
+          ],
+          "slots": [
+            2,
+            1,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 71"
+        },
+        {
+          "level": 11,
+          "xp": 550000,
+          "hd": "9d8+4*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            6,
+            7,
+            8,
+            8,
+            10
+          ],
+          "slots": [
+            2,
+            2,
+            0
+          ],
+          "source": "Player\u2019s Tome p. 71"
+        },
+        {
+          "level": 12,
+          "xp": 675000,
+          "hd": "9d8+6*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            6,
+            7,
+            8,
+            8,
+            10
+          ],
+          "slots": [
+            2,
+            2,
+            1
+          ],
+          "source": "Player\u2019s Tome p. 71"
+        },
+        {
+          "level": 13,
+          "xp": 800000,
+          "hd": "9d8+8*",
+          "thaco": 10,
+          "attack": 9,
+          "saves": [
+            4,
+            5,
+            6,
+            5,
+            8
+          ],
+          "slots": [
+            3,
+            2,
+            1
+          ],
+          "source": "Player\u2019s Tome p. 71"
+        },
+        {
+          "level": 14,
+          "xp": 925000,
+          "hd": "9d8+10*",
+          "thaco": 10,
+          "attack": 9,
+          "saves": [
+            4,
+            5,
+            6,
+            5,
+            8
+          ],
+          "slots": [
+            3,
+            2,
+            2
+          ],
+          "source": "Player\u2019s Tome p. 71"
+        }
+      ],
+      "demihuman": false,
+      "features": [
+        "Surprised only on 1. Forage 2-in-6; find prey 5-in-6.",
+        "Wilderness hide and move silently: 3-in-6 each.",
+        "Tracking starts at 20%, improves 10% per level to 110%; situational modifiers apply.",
+        "Pursued enemy evasion chance -10%. Level 8: druidic spells."
+      ],
+      "languages": [
+        "Alignment",
+        "Common"
+      ],
+      "skills": []
+    },
+    {
+      "id": "svirfneblin",
+      "name": "Svirfneblin",
+      "page": 72,
+      "requirements": {
+        "CON": 9
+      },
+      "prime": [
+        "STR"
+      ],
+      "die": 6,
+      "armor": "Any appropriate to size, in- cluding shields",
+      "weapons": "Any appropriate to size",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            8,
+            9,
+            10,
+            14,
+            11
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 73"
+        },
+        {
+          "level": 2,
+          "xp": 2400,
+          "hd": "2d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            8,
+            9,
+            10,
+            14,
+            11
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 73"
+        },
+        {
+          "level": 3,
+          "xp": 4800,
+          "hd": "3d6",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            8,
+            9,
+            10,
+            14,
+            11
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 73"
+        },
+        {
+          "level": 4,
+          "xp": 10000,
+          "hd": "4d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            6,
+            7,
+            8,
+            11,
+            9
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 73"
+        },
+        {
+          "level": 5,
+          "xp": 20000,
+          "hd": "5d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            6,
+            7,
+            8,
+            11,
+            9
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 73"
+        },
+        {
+          "level": 6,
+          "xp": 40000,
+          "hd": "6d6",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            6,
+            7,
+            8,
+            11,
+            9
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 73"
+        },
+        {
+          "level": 7,
+          "xp": 80000,
+          "hd": "7d6",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            4,
+            5,
+            6,
+            9,
+            7
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 73"
+        },
+        {
+          "level": 8,
+          "xp": 160000,
+          "hd": "8d6",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            4,
+            5,
+            6,
+            9,
+            7
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 73"
+        }
+      ],
+      "demihuman": true,
+      "features": [
+        "Use this race-as-class\u2019s complete abilities on the referenced class pages; racial saves are already included in its progression."
+      ],
+      "languages": [
+        "Alignment",
+        "Common",
+        "Deepcommon",
+        "Gnomish",
+        "Dwarvish",
+        "Kobold",
+        "the language of earth elementals"
+      ],
+      "skills": []
+    },
+    {
+      "id": "thief",
+      "name": "Thief",
+      "page": 74,
+      "requirements": {},
+      "prime": [
+        "DEX"
+      ],
+      "die": 4,
+      "armor": "Leather, no shields",
+      "weapons": "Any",
+      "progression": [
+        {
+          "level": 1,
+          "xp": 0,
+          "hd": "1d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 75"
+        },
+        {
+          "level": 2,
+          "xp": 1200,
+          "hd": "2d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 75"
+        },
+        {
+          "level": 3,
+          "xp": 2400,
+          "hd": "3d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 75"
+        },
+        {
+          "level": 4,
+          "xp": 4800,
+          "hd": "4d4",
+          "thaco": 19,
+          "attack": 0,
+          "saves": [
+            13,
+            14,
+            13,
+            16,
+            15
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 75"
+        },
+        {
+          "level": 5,
+          "xp": 9600,
+          "hd": "5d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            12,
+            13,
+            11,
+            14,
+            13
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 75"
+        },
+        {
+          "level": 6,
+          "xp": 20000,
+          "hd": "6d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            12,
+            13,
+            11,
+            14,
+            13
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 75"
+        },
+        {
+          "level": 7,
+          "xp": 40000,
+          "hd": "7d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            12,
+            13,
+            11,
+            14,
+            13
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 75"
+        },
+        {
+          "level": 8,
+          "xp": 80000,
+          "hd": "8d4",
+          "thaco": 17,
+          "attack": 2,
+          "saves": [
+            12,
+            13,
+            11,
+            14,
+            13
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 75"
+        },
+        {
+          "level": 9,
+          "xp": 160000,
+          "hd": "9d4",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            10,
+            11,
+            9,
+            12,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 75"
+        },
+        {
+          "level": 10,
+          "xp": 280000,
+          "hd": "9d4+2*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            10,
+            11,
+            9,
+            12,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 75"
+        },
+        {
+          "level": 11,
+          "xp": 400000,
+          "hd": "9d4+4*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            10,
+            11,
+            9,
+            12,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 75"
+        },
+        {
+          "level": 12,
+          "xp": 520000,
+          "hd": "9d4+6*",
+          "thaco": 14,
+          "attack": 5,
+          "saves": [
+            10,
+            11,
+            9,
+            12,
+            10
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 75"
+        },
+        {
+          "level": 13,
+          "xp": 640000,
+          "hd": "9d4+8*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            8,
+            9,
+            7,
+            10,
+            8
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 75"
+        },
+        {
+          "level": 14,
+          "xp": 760000,
+          "hd": "9d4+10*",
+          "thaco": 12,
+          "attack": 7,
+          "saves": [
+            8,
+            9,
+            7,
+            10,
+            8
+          ],
+          "slots": [],
+          "source": "Player\u2019s Tome p. 75"
+        }
+      ],
+      "demihuman": false,
+      "features": [
+        "Back-stab: unaware enemy from behind, +4 attack and double damage.",
+        "Level 4: read nonmagical languages 80%. Level 10: arcane scroll use with 10% error."
+      ],
+      "languages": [
+        "Alignment",
+        "Common"
+      ],
+      "skills": [
+        {
+          "labels": [
+            "CS",
+            "TR",
+            "HN",
+            "HS",
+            "MS",
+            "OL",
+            "PP"
+          ],
+          "rows": [
+            {
+              "level": 1,
+              "values": [
+                "87",
+                "10",
+                "1\u20132",
+                "10",
+                "20",
+                "15",
+                "20"
+              ]
+            },
+            {
+              "level": 2,
+              "values": [
+                "88",
+                "15",
+                "1\u20132",
+                "15",
+                "25",
+                "20",
+                "25"
+              ]
+            },
+            {
+              "level": 3,
+              "values": [
+                "89",
+                "20",
+                "1\u20133",
+                "20",
+                "30",
+                "25",
+                "30"
+              ]
+            },
+            {
+              "level": 4,
+              "values": [
+                "90",
+                "25",
+                "1\u20133",
+                "25",
+                "35",
+                "30",
+                "35"
+              ]
+            },
+            {
+              "level": 5,
+              "values": [
+                "91",
+                "30",
+                "1\u20133",
+                "30",
+                "40",
+                "35",
+                "40"
+              ]
+            },
+            {
+              "level": 6,
+              "values": [
+                "92",
+                "40",
+                "1\u20133",
+                "36",
+                "45",
+                "45",
+                "45"
+              ]
+            },
+            {
+              "level": 7,
+              "values": [
+                "93",
+                "50",
+                "1\u20134",
+                "45",
+                "55",
+                "55",
+                "55"
+              ]
+            },
+            {
+              "level": 8,
+              "values": [
+                "94",
+                "60",
+                "1\u20134",
+                "55",
+                "65",
+                "65",
+                "65"
+              ]
+            },
+            {
+              "level": 9,
+              "values": [
+                "95",
+                "70",
+                "1\u20134",
+                "65",
+                "75",
+                "75",
+                "75"
+              ]
+            },
+            {
+              "level": 10,
+              "values": [
+                "96",
+                "80",
+                "1\u20134",
+                "75",
+                "85",
+                "85",
+                "85"
+              ]
+            },
+            {
+              "level": 11,
+              "values": [
+                "97",
+                "90",
+                "1\u20135",
+                "85",
+                "95",
+                "95",
+                "95"
+              ]
+            },
+            {
+              "level": 12,
+              "values": [
+                "98",
+                "95",
+                "1\u20135",
+                "90",
+                "96",
+                "96",
+                "105"
+              ]
+            },
+            {
+              "level": 13,
+              "values": [
+                "99",
+                "97",
+                "1\u20135",
+                "95",
+                "98",
+                "97",
+                "115"
+              ]
+            },
+            {
+              "level": 14,
+              "values": [
+                "99",
+                "99",
+                "1\u20135",
+                "99",
+                "99",
+                "99",
+                "125"
+              ]
+            }
+          ],
+          "page": 75
+        }
+      ]
+    }
+  ],
+  "spells": [
+    {
+      "id": "cleric-1-0",
+      "name": "Cure Light Wounds (Cause Lt. Wounds)",
+      "level": 1,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-1-1",
+      "name": "Detect Evil",
+      "level": 1,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-1-2",
+      "name": "Detect Magic",
+      "level": 1,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-1-3",
+      "name": "Light (Darkness)",
+      "level": 1,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-1-4",
+      "name": "Protection from Evil",
+      "level": 1,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-1-5",
+      "name": "Purify Food and Water",
+      "level": 1,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-1-6",
+      "name": "Remove Fear (Cause Fear)",
+      "level": 1,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-1-7",
+      "name": "Resist Cold",
+      "level": 1,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-2-8",
+      "name": "Bless (Blight)",
+      "level": 2,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-2-9",
+      "name": "Find Traps",
+      "level": 2,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-2-10",
+      "name": "Hold Person",
+      "level": 2,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-2-11",
+      "name": "Know Alignment",
+      "level": 2,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-2-12",
+      "name": "Resist Fire",
+      "level": 2,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-2-13",
+      "name": "Silence 15\u2019 Radius",
+      "level": 2,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-2-14",
+      "name": "Snake Charm",
+      "level": 2,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-2-15",
+      "name": "Speak with Animals",
+      "level": 2,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-3-16",
+      "name": "Continual Light (Continual Darkness)",
+      "level": 3,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-3-17",
+      "name": "Cure Disease (Cause Disease)",
+      "level": 3,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-3-18",
+      "name": "Growth of Animal",
+      "level": 3,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-3-19",
+      "name": "Locate Object",
+      "level": 3,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-3-20",
+      "name": "Remove Curse (Curse)",
+      "level": 3,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-3-21",
+      "name": "Striking",
+      "level": 3,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-4-22",
+      "name": "Create Water",
+      "level": 4,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-4-23",
+      "name": "Cure Serious Wounds (Cause Sr. Wounds)",
+      "level": 4,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-4-24",
+      "name": "Neutralize Poison",
+      "level": 4,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-4-25",
+      "name": "Protection from Evil 10\u2019 Radius",
+      "level": 4,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-4-26",
+      "name": "Speak with Plants",
+      "level": 4,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-4-27",
+      "name": "Sticks to Snakes",
+      "level": 4,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-5-28",
+      "name": "Commune",
+      "level": 5,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-5-29",
+      "name": "Create Food",
+      "level": 5,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-5-30",
+      "name": "Dispel Evil",
+      "level": 5,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-5-31",
+      "name": "Insect Plague",
+      "level": 5,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-5-32",
+      "name": "Quest (Remove Quest)",
+      "level": 5,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "cleric-5-33",
+      "name": "Raise Dead (Finger of Death)",
+      "level": 5,
+      "tradition": "cleric",
+      "page": 128
+    },
+    {
+      "id": "druid-1-34",
+      "name": "Animal Friendship",
+      "level": 1,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-1-35",
+      "name": "Detect Danger",
+      "level": 1,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-1-36",
+      "name": "Entangle",
+      "level": 1,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-1-37",
+      "name": "Faerie Fire",
+      "level": 1,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-1-38",
+      "name": "Invisibility to Animals",
+      "level": 1,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-1-39",
+      "name": "Locate Plant or Animal",
+      "level": 1,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-1-40",
+      "name": "Predict Weather",
+      "level": 1,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-1-41",
+      "name": "Speak with Animals",
+      "level": 1,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-2-42",
+      "name": "Barkskin",
+      "level": 2,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-2-43",
+      "name": "Create Water",
+      "level": 2,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-2-44",
+      "name": "Cure Light Wounds (Cause Lt. Wounds)",
+      "level": 2,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-2-45",
+      "name": "Heat Metal",
+      "level": 2,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-2-46",
+      "name": "Obscuring Mist",
+      "level": 2,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-2-47",
+      "name": "Produce Flame",
+      "level": 2,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-2-48",
+      "name": "Slow Poison",
+      "level": 2,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-2-49",
+      "name": "Warp Wood",
+      "level": 2,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-3-50",
+      "name": "Call Lightning",
+      "level": 3,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-3-51",
+      "name": "Growth of Nature",
+      "level": 3,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-3-52",
+      "name": "Hold Animal",
+      "level": 3,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-3-53",
+      "name": "Protection from Poison",
+      "level": 3,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-3-54",
+      "name": "Tree Shape",
+      "level": 3,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-3-55",
+      "name": "Water Breathing (Air Breathing)",
+      "level": 3,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-4-56",
+      "name": "Cure Serious Wounds (Cause Sr. Wounds)",
+      "level": 4,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-4-57",
+      "name": "Dispel Magic",
+      "level": 4,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-4-58",
+      "name": "Protection from Fire and Lightning",
+      "level": 4,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-4-59",
+      "name": "Speak with Plants",
+      "level": 4,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-4-60",
+      "name": "Summon Animals",
+      "level": 4,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-4-61",
+      "name": "Temperature Control",
+      "level": 4,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-5-62",
+      "name": "Commune with Nature",
+      "level": 5,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-5-63",
+      "name": "Control Weather",
+      "level": 5,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-5-64",
+      "name": "Pass Plant",
+      "level": 5,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-5-65",
+      "name": "Protection from Plants and Animals",
+      "level": 5,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-5-66",
+      "name": "Transmute Rock to Mud (Mud to Rock)",
+      "level": 5,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "druid-5-67",
+      "name": "Wall of Thorns",
+      "level": 5,
+      "tradition": "druid",
+      "page": 129
+    },
+    {
+      "id": "illusionist-1-68",
+      "name": "Auditory Illusion",
+      "level": 1,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-1-69",
+      "name": "Chromatic Orb",
+      "level": 1,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-1-70",
+      "name": "Colour Spray",
+      "level": 1,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-1-71",
+      "name": "Dancing Lights",
+      "level": 1,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-1-72",
+      "name": "Detect Illusion",
+      "level": 1,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-1-73",
+      "name": "Glamour",
+      "level": 1,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-1-74",
+      "name": "Hypnotism",
+      "level": 1,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-1-75",
+      "name": "Light (Darkness)",
+      "level": 1,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-1-76",
+      "name": "Phantasmal Force",
+      "level": 1,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-1-77",
+      "name": "Read Magic",
+      "level": 1,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-1-78",
+      "name": "Spook",
+      "level": 1,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-1-79",
+      "name": "Wall of Fog",
+      "level": 1,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-2-80",
+      "name": "Blindness / Deafness",
+      "level": 2,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-2-81",
+      "name": "Blur",
+      "level": 2,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-2-82",
+      "name": "Detect Magic",
+      "level": 2,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-2-83",
+      "name": "False Aura",
+      "level": 2,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-2-84",
+      "name": "Fascinate",
+      "level": 2,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-2-85",
+      "name": "Hypnotic Pattern",
+      "level": 2,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-2-86",
+      "name": "Improved Phantasmal Force",
+      "level": 2,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-2-87",
+      "name": "Invisibility",
+      "level": 2,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-2-88",
+      "name": "Magic Mouth",
+      "level": 2,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-2-89",
+      "name": "Mirror Image",
+      "level": 2,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-2-90",
+      "name": "Quasimorph",
+      "level": 2,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-2-91",
+      "name": "Whispering Wind",
+      "level": 2,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-3-92",
+      "name": "Blacklight",
+      "level": 3,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-3-93",
+      "name": "Dispel Illusion",
+      "level": 3,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-3-94",
+      "name": "Fear",
+      "level": 3,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-3-95",
+      "name": "Hallucinatory Terrain",
+      "level": 3,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-3-96",
+      "name": "Invisibility 10' Radius",
+      "level": 3,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-3-97",
+      "name": "Nondetection",
+      "level": 3,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-3-98",
+      "name": "Paralysation",
+      "level": 3,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-3-99",
+      "name": "Phantom Steed",
+      "level": 3,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-3-100",
+      "name": "Rope Trick",
+      "level": 3,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-3-101",
+      "name": "Spectral Force",
+      "level": 3,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-3-102",
+      "name": "Suggestion",
+      "level": 3,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-3-103",
+      "name": "Wraithform",
+      "level": 3,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-4-104",
+      "name": "Confusion",
+      "level": 4,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-4-105",
+      "name": "Dispel Magic",
+      "level": 4,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-4-106",
+      "name": "Emotion",
+      "level": 4,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-4-107",
+      "name": "Illusory Stamina",
+      "level": 4,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-4-108",
+      "name": "Improved Invisibility",
+      "level": 4,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-4-109",
+      "name": "Massmorph",
+      "level": 4,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-4-110",
+      "name": "Minor Creation",
+      "level": 4,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-4-111",
+      "name": "Phantasmal Killer",
+      "level": 4,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-4-112",
+      "name": "Rainbow Pattern",
+      "level": 4,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-4-113",
+      "name": "Shadow Monsters",
+      "level": 4,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-4-114",
+      "name": "Solid Fog",
+      "level": 4,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-4-115",
+      "name": "Veil of Abandonment",
+      "level": 4,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-5-116",
+      "name": "Chaos",
+      "level": 5,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-5-117",
+      "name": "Demi-Shadow Monsters",
+      "level": 5,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-5-118",
+      "name": "Illusion",
+      "level": 5,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-5-119",
+      "name": "Looking Glass",
+      "level": 5,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-5-120",
+      "name": "Major Creation",
+      "level": 5,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-5-121",
+      "name": "Maze of Mirrors",
+      "level": 5,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-5-122",
+      "name": "Projected Image",
+      "level": 5,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-5-123",
+      "name": "Seeming",
+      "level": 5,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-5-124",
+      "name": "Shadowcast",
+      "level": 5,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-5-125",
+      "name": "Shadowy Transformation",
+      "level": 5,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-5-126",
+      "name": "Time Flow",
+      "level": 5,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-5-127",
+      "name": "Visitation",
+      "level": 5,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-6-128",
+      "name": "Acid Fog",
+      "level": 6,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-6-129",
+      "name": "Dream Quest",
+      "level": 6,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-6-130",
+      "name": "Impersonation",
+      "level": 6,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-6-131",
+      "name": "Manifest Dream",
+      "level": 6,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-6-132",
+      "name": "Mass Suggestion",
+      "level": 6,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-6-133",
+      "name": "Mislead",
+      "level": 6,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-6-134",
+      "name": "Permanent Illusion",
+      "level": 6,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-6-135",
+      "name": "Shades",
+      "level": 6,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-6-136",
+      "name": "Through the Looking Glass",
+      "level": 6,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-6-137",
+      "name": "Triggered Illusion",
+      "level": 6,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-6-138",
+      "name": "True Seeing",
+      "level": 6,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "illusionist-6-139",
+      "name": "Vision",
+      "level": 6,
+      "tradition": "illusionist",
+      "page": 130
+    },
+    {
+      "id": "magic-user-1-140",
+      "name": "Charm Person",
+      "level": 1,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-1-141",
+      "name": "Detect Magic",
+      "level": 1,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-1-142",
+      "name": "Floating Disc",
+      "level": 1,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-1-143",
+      "name": "Hold Portal",
+      "level": 1,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-1-144",
+      "name": "Light (Darkness)",
+      "level": 1,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-1-145",
+      "name": "Magic Missile",
+      "level": 1,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-1-146",
+      "name": "Protection from Evil",
+      "level": 1,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-1-147",
+      "name": "Read Languages",
+      "level": 1,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-1-148",
+      "name": "Read Magic",
+      "level": 1,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-1-149",
+      "name": "Shield",
+      "level": 1,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-1-150",
+      "name": "Sleep",
+      "level": 1,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-1-151",
+      "name": "Ventriloquism",
+      "level": 1,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-2-152",
+      "name": "Continual Light (Continual Darkness)",
+      "level": 2,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-2-153",
+      "name": "Detect Evil",
+      "level": 2,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-2-154",
+      "name": "Detect Invisible",
+      "level": 2,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-2-155",
+      "name": "ESP",
+      "level": 2,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-2-156",
+      "name": "Invisibility",
+      "level": 2,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-2-157",
+      "name": "Knock",
+      "level": 2,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-2-158",
+      "name": "Levitate",
+      "level": 2,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-2-159",
+      "name": "Locate Object",
+      "level": 2,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-2-160",
+      "name": "Mirror Image",
+      "level": 2,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-2-161",
+      "name": "Phantasmal Force",
+      "level": 2,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-2-162",
+      "name": "Web",
+      "level": 2,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-2-163",
+      "name": "Wizard Lock",
+      "level": 2,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-3-164",
+      "name": "Clairvoyance",
+      "level": 3,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-3-165",
+      "name": "Dispel Magic",
+      "level": 3,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-3-166",
+      "name": "Fire Ball",
+      "level": 3,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-3-167",
+      "name": "Fly",
+      "level": 3,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-3-168",
+      "name": "Haste",
+      "level": 3,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-3-169",
+      "name": "Hold Person",
+      "level": 3,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-3-170",
+      "name": "Infravision",
+      "level": 3,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-3-171",
+      "name": "Invisibility 10\u2019 Radius",
+      "level": 3,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-3-172",
+      "name": "Lightning Bolt",
+      "level": 3,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-3-173",
+      "name": "Protection from Evil 10\u2019 Radius",
+      "level": 3,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-3-174",
+      "name": "Protection from Normal Missiles",
+      "level": 3,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-3-175",
+      "name": "Water Breathing",
+      "level": 3,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-4-176",
+      "name": "Charm Monster",
+      "level": 4,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-4-177",
+      "name": "Confusion",
+      "level": 4,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-4-178",
+      "name": "Dimension Door",
+      "level": 4,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-4-179",
+      "name": "Growth of Plants",
+      "level": 4,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-4-180",
+      "name": "Hallucinatory Terrain",
+      "level": 4,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-4-181",
+      "name": "Massmorph",
+      "level": 4,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-4-182",
+      "name": "Polymorph Others",
+      "level": 4,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-4-183",
+      "name": "Polymorph Self",
+      "level": 4,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-4-184",
+      "name": "Remove Curse (Curse)",
+      "level": 4,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-4-185",
+      "name": "Wall of Fire",
+      "level": 4,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-4-186",
+      "name": "Wall of Ice",
+      "level": 4,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-4-187",
+      "name": "Wizard Eye",
+      "level": 4,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-5-188",
+      "name": "Animate Dead",
+      "level": 5,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-5-189",
+      "name": "Cloudkill",
+      "level": 5,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-5-190",
+      "name": "Conjure Elemental",
+      "level": 5,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-5-191",
+      "name": "Contact Higher Plane",
+      "level": 5,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-5-192",
+      "name": "Feeblemind",
+      "level": 5,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-5-193",
+      "name": "Hold Monster",
+      "level": 5,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-5-194",
+      "name": "Magic Jar",
+      "level": 5,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-5-195",
+      "name": "Pass-Wall",
+      "level": 5,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-5-196",
+      "name": "Telekinesis",
+      "level": 5,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-5-197",
+      "name": "Teleport",
+      "level": 5,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-5-198",
+      "name": "Transmute Rock to Mud (Mud to Rock)",
+      "level": 5,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-5-199",
+      "name": "Wall of Stone",
+      "level": 5,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-6-200",
+      "name": "Anti-Magic Shell",
+      "level": 6,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-6-201",
+      "name": "Control Weather",
+      "level": 6,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-6-202",
+      "name": "Death Spell",
+      "level": 6,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-6-203",
+      "name": "Disintegrate",
+      "level": 6,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-6-204",
+      "name": "Geas (Remove Geas)",
+      "level": 6,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-6-205",
+      "name": "Invisible Stalker",
+      "level": 6,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-6-206",
+      "name": "Lower Water",
+      "level": 6,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-6-207",
+      "name": "Move Earth",
+      "level": 6,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-6-208",
+      "name": "Part Water",
+      "level": 6,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-6-209",
+      "name": "Projected Image",
+      "level": 6,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-6-210",
+      "name": "Reincarnation",
+      "level": 6,
+      "tradition": "magic-user",
+      "page": 131
+    },
+    {
+      "id": "magic-user-6-211",
+      "name": "Stone to Flesh (Flesh to Stone)",
+      "level": 6,
+      "tradition": "magic-user",
+      "page": 131
+    }
+  ],
+  "races": [
+    {
+      "id": "human",
+      "name": "Human",
+      "page": 86,
+      "requirements": {},
+      "adjustments": {},
+      "limits": {
+        "acrobat": 14,
+        "assassin": 14,
+        "barbarian": 14,
+        "bard": 14,
+        "cleric": 14,
+        "druid": 14,
+        "fighter": 14,
+        "illusionist": 14,
+        "knight": 14,
+        "magic-user": 14,
+        "paladin": 14,
+        "ranger": 14,
+        "thief": 14
+      },
+      "languages": [
+        "Common"
+      ],
+      "infravision": 0,
+      "small": false,
+      "features": [
+        "No racial abilities under standard restrictions."
+      ]
+    },
+    {
+      "id": "drow",
+      "name": "Drow",
+      "page": 79,
+      "requirements": {
+        "INT": 9
+      },
+      "adjustments": {
+        "DEX": 1,
+        "CON": -1
+      },
+      "limits": {
+        "acrobat": 10,
+        "assassin": 10,
+        "fighter": 7,
+        "knight": 9,
+        "magic-user": 9,
+        "ranger": 9,
+        "thief": 11,
+        "cleric": 11
+      },
+      "languages": [
+        "Common",
+        "Deepcommon",
+        "Elvish",
+        "Gnomish"
+      ],
+      "infravision": 90,
+      "small": false,
+      "features": [
+        "Secret doors 2-in-6 when searching; listen 2-in-6.",
+        "Immune to ghoul paralysis. Bright light: attacks -2 and AC worsens by 1.",
+        "Level 2: darkness once daily. Level 4: detect magic once daily."
+      ]
+    },
+    {
+      "id": "duergar",
+      "name": "Duergar",
+      "page": 80,
+      "requirements": {
+        "CON": 9,
+        "INT": 9
+      },
+      "adjustments": {
+        "CHA": -1,
+        "CON": 1
+      },
+      "limits": {
+        "assassin": 9,
+        "fighter": 9,
+        "thief": 9,
+        "cleric": 8
+      },
+      "languages": [
+        "Common",
+        "Deepcommon",
+        "Dwarvish",
+        "Gnomish",
+        "Goblin",
+        "Kobold"
+      ],
+      "infravision": 90,
+      "small": true,
+      "features": [
+        "Construction tricks and room traps 2-in-6; listen 2-in-6.",
+        "Underground move silently 3-in-6. Bright light: attacks -2 and AC worsens by 1.",
+        "CON-based resilience applies to poison, paralysis and magic saves."
+      ]
+    },
+    {
+      "id": "dwarf",
+      "name": "Dwarf",
+      "page": 81,
+      "requirements": {
+        "CON": 9
+      },
+      "adjustments": {
+        "CHA": -1,
+        "CON": 1
+      },
+      "limits": {
+        "assassin": 9,
+        "fighter": 10,
+        "thief": 9,
+        "cleric": 8
+      },
+      "languages": [
+        "Common",
+        "Dwarvish",
+        "Gnomish",
+        "Goblin",
+        "Kobold"
+      ],
+      "infravision": 60,
+      "small": true,
+      "features": [
+        "Construction tricks and room traps 2-in-6; listen 2-in-6.",
+        "CON-based resilience applies to poison and magic saves."
+      ]
+    },
+    {
+      "id": "elf",
+      "name": "Elf",
+      "page": 82,
+      "requirements": {
+        "INT": 9
+      },
+      "adjustments": {
+        "DEX": 1,
+        "CON": -1
+      },
+      "limits": {
+        "acrobat": 10,
+        "assassin": 10,
+        "fighter": 7,
+        "knight": 11,
+        "magic-user": 11,
+        "ranger": 11,
+        "thief": 10,
+        "cleric": 7,
+        "druid": 8
+      },
+      "languages": [
+        "Common",
+        "Elvish",
+        "Gnoll",
+        "Hobgoblin",
+        "Orcish"
+      ],
+      "infravision": 60,
+      "small": false,
+      "features": [
+        "Secret doors 2-in-6 when searching; listen 2-in-6.",
+        "Immune to ghoul paralysis."
+      ]
+    },
+    {
+      "id": "gnome",
+      "name": "Gnome",
+      "page": 83,
+      "requirements": {
+        "CON": 9,
+        "INT": 9
+      },
+      "adjustments": {},
+      "limits": {
+        "assassin": 6,
+        "fighter": 6,
+        "illusionist": 7,
+        "thief": 8,
+        "cleric": 7
+      },
+      "languages": [
+        "Common",
+        "Dwarvish",
+        "Gnomish",
+        "Kobold",
+        "the secret language of burrowing mammals"
+      ],
+      "infravision": 90,
+      "small": true,
+      "features": [
+        "AC improves by 2 against larger-than-human foes. Construction tricks 2-in-6; listen 2-in-6.",
+        "CON-based resistance applies to magic saves; speak with burrowing mammals."
+      ]
+    },
+    {
+      "id": "half-elf",
+      "name": "Half-Elf",
+      "page": 84,
+      "requirements": {
+        "CHA": 9,
+        "CON": 9
+      },
+      "adjustments": {},
+      "limits": {
+        "acrobat": 12,
+        "assassin": 11,
+        "bard": 12,
+        "cleric": 5,
+        "druid": 12,
+        "fighter": 8,
+        "knight": 12,
+        "magic-user": 8,
+        "paladin": 12,
+        "ranger": 8,
+        "thief": 12
+      },
+      "languages": [
+        "Common",
+        "Elvish"
+      ],
+      "infravision": 60,
+      "small": false,
+      "features": [
+        "Secret doors 2-in-6 when searching."
+      ]
+    },
+    {
+      "id": "halfling",
+      "name": "Halfling",
+      "page": 85,
+      "requirements": {
+        "CON": 9,
+        "DEX": 9
+      },
+      "adjustments": {
+        "STR": -1,
+        "DEX": 1
+      },
+      "limits": {
+        "fighter": 6,
+        "thief": 8,
+        "druid": 6
+      },
+      "languages": [
+        "Common",
+        "Halfling"
+      ],
+      "infravision": 0,
+      "small": true,
+      "features": [
+        "AC improves by 2 against larger-than-human foes. Listen 2-in-6.",
+        "Missile attacks +1. Individual initiative +1. CON-based poison and magic resilience."
+      ]
+    },
+    {
+      "id": "half-orc",
+      "name": "Half-Orc",
+      "page": 86,
+      "requirements": {},
+      "adjustments": {
+        "CHA": -2,
+        "CON": 1,
+        "STR": 1
+      },
+      "limits": {
+        "acrobat": 8,
+        "assassin": 8,
+        "cleric": 4,
+        "fighter": 10,
+        "thief": 8
+      },
+      "languages": [
+        "Common",
+        "Orcish"
+      ],
+      "infravision": 60,
+      "small": false,
+      "features": []
+    },
+    {
+      "id": "svirfneblin",
+      "name": "Svirfneblin",
+      "page": 87,
+      "requirements": {
+        "CON": 9
+      },
+      "adjustments": {},
+      "limits": {
+        "assassin": 8,
+        "fighter": 6,
+        "illusionist": 7,
+        "thief": 8,
+        "cleric": 7
+      },
+      "languages": [
+        "Common",
+        "Deepcommon",
+        "Gnomish",
+        "Dwarvish",
+        "Kobold",
+        "the language of earth elementals"
+      ],
+      "infravision": 90,
+      "small": true,
+      "features": [
+        "AC improves by 2 against larger-than-human foes; saves against illusions +2.",
+        "Blend with stone: 4-in-6 in gloom, 2-in-6 in light when still and silent.",
+        "Construction tricks 2-in-6; listen 2-in-6. Speak with earth elementals.",
+        "Bright light: attacks -2 and AC worsens by 1."
+      ]
+    }
+  ],
+  "equipment": [
+    {
+      "id": "battle axe",
+      "name": "Battle axe",
+      "cost": 7,
+      "weight": 50,
+      "kind": "weapon",
+      "page": 96,
+      "damage": "1d8",
+      "qualities": "Melee, Slow, Two-handed"
+    },
+    {
+      "id": "club",
+      "name": "Club",
+      "cost": 3,
+      "weight": 50,
+      "kind": "weapon",
+      "page": 96,
+      "damage": "1d4",
+      "qualities": "Blunt, Melee"
+    },
+    {
+      "id": "crossbow",
+      "name": "Crossbow",
+      "cost": 30,
+      "weight": 50,
+      "kind": "weapon",
+      "page": 96,
+      "damage": "1d6",
+      "qualities": "Missile (5\u2019\u201380\u2019 / 81\u2019\u2013160\u2019 / 161\u2019\u2013240\u2019), Reload, Slow, Two-handed"
+    },
+    {
+      "id": "dagger",
+      "name": "Dagger",
+      "cost": 3,
+      "weight": 10,
+      "kind": "weapon",
+      "page": 96,
+      "damage": "1d4",
+      "qualities": "Melee, Missile (5\u2019\u201310\u2019 / 11\u2019\u201320\u2019 / 21\u2019\u201330\u2019)"
+    },
+    {
+      "id": "hand axe",
+      "name": "Hand axe",
+      "cost": 4,
+      "weight": 30,
+      "kind": "weapon",
+      "page": 96,
+      "damage": "1d6",
+      "qualities": "Melee, Missile (5\u2019\u201310\u2019 / 11\u2019\u201320\u2019 / 21\u2019\u201330\u2019)"
+    },
+    {
+      "id": "javelin",
+      "name": "Javelin",
+      "cost": 1,
+      "weight": 20,
+      "kind": "weapon",
+      "page": 96,
+      "damage": "1d4",
+      "qualities": "Missile (5\u2019\u201330\u2019 / 31\u2019\u201360\u2019 / 61\u2019\u201390\u2019)"
+    },
+    {
+      "id": "lance",
+      "name": "Lance",
+      "cost": 5,
+      "weight": 120,
+      "kind": "weapon",
+      "page": 96,
+      "damage": "1d6",
+      "qualities": "Charge, Melee"
+    },
+    {
+      "id": "long bow",
+      "name": "Long bow",
+      "cost": 40,
+      "weight": 30,
+      "kind": "weapon",
+      "page": 96,
+      "damage": "1d6",
+      "qualities": "Missile (5\u2019\u201370\u2019 / 71\u2019\u2013140\u2019 / 141\u2019\u2013210\u2019), Two-handed"
+    },
+    {
+      "id": "mace",
+      "name": "Mace",
+      "cost": 5,
+      "weight": 30,
+      "kind": "weapon",
+      "page": 96,
+      "damage": "1d6",
+      "qualities": "Blunt, Melee"
+    },
+    {
+      "id": "polearm",
+      "name": "Polearm",
+      "cost": 7,
+      "weight": 150,
+      "kind": "weapon",
+      "page": 96,
+      "damage": "1d10",
+      "qualities": "Brace, Melee, Slow, Two-handed"
+    },
+    {
+      "id": "short bow",
+      "name": "Short bow",
+      "cost": 25,
+      "weight": 30,
+      "kind": "weapon",
+      "page": 96,
+      "damage": "1d6",
+      "qualities": "Missile (5\u2019\u201350\u2019 / 51\u2019\u2013100\u2019 / 101\u2019\u2013150\u2019), Two-handed"
+    },
+    {
+      "id": "short sword",
+      "name": "Short sword",
+      "cost": 7,
+      "weight": 30,
+      "kind": "weapon",
+      "page": 96,
+      "damage": "1d6",
+      "qualities": "Melee"
+    },
+    {
+      "id": "silver dagger",
+      "name": "Silver dagger",
+      "cost": 30,
+      "weight": 10,
+      "kind": "weapon",
+      "page": 96,
+      "damage": "1d4",
+      "qualities": "Melee, Missile (5\u2019\u201310\u2019 / 11\u2019\u201320\u2019 / 21\u2019\u201330\u2019)"
+    },
+    {
+      "id": "sling",
+      "name": "Sling",
+      "cost": 2,
+      "weight": 20,
+      "kind": "weapon",
+      "page": 96,
+      "damage": "1d4",
+      "qualities": "Blunt, Missile (5\u2019\u201340\u2019 / 41\u2019\u201380\u2019 / 81\u2019\u2013160\u2019)"
+    },
+    {
+      "id": "spear",
+      "name": "Spear",
+      "cost": 4,
+      "weight": 30,
+      "kind": "weapon",
+      "page": 96,
+      "damage": "1d6",
+      "qualities": "Brace, Melee, Missile (5\u2019\u201320\u2019 / 21\u2019\u201340\u2019 / 41\u2019\u201360\u2019)"
+    },
+    {
+      "id": "staff",
+      "name": "Staff",
+      "cost": 2,
+      "weight": 40,
+      "kind": "weapon",
+      "page": 96,
+      "damage": "1d4",
+      "qualities": "Blunt, Melee, Slow, Two-handed"
+    },
+    {
+      "id": "sword",
+      "name": "Sword",
+      "cost": 10,
+      "weight": 60,
+      "kind": "weapon",
+      "page": 96,
+      "damage": "1d8",
+      "qualities": "Melee"
+    },
+    {
+      "id": "two-handed sword",
+      "name": "Two-handed sword",
+      "cost": 15,
+      "weight": 150,
+      "kind": "weapon",
+      "page": 96,
+      "damage": "1d10",
+      "qualities": "Melee, Slow, Two-handed"
+    },
+    {
+      "id": "war hammer",
+      "name": "War hammer",
+      "cost": 5,
+      "weight": 30,
+      "kind": "weapon",
+      "page": 96,
+      "damage": "1d6",
+      "qualities": "Blunt, Melee"
+    },
+    {
+      "id": "leather",
+      "name": "Leather",
+      "cost": 20,
+      "weight": 200,
+      "ac": 7,
+      "kind": "armor",
+      "page": 96,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "chainmail",
+      "name": "Chainmail",
+      "cost": 40,
+      "weight": 400,
+      "ac": 5,
+      "kind": "armor",
+      "page": 96,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "plate mail",
+      "name": "Plate mail",
+      "cost": 60,
+      "weight": 500,
+      "ac": 3,
+      "kind": "armor",
+      "page": 96,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "shield",
+      "name": "Shield",
+      "cost": 10,
+      "weight": 100,
+      "ac": 0,
+      "kind": "shield",
+      "page": 96,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "wooden shield",
+      "name": "Wooden shield",
+      "cost": 10,
+      "weight": 100,
+      "ac": 0,
+      "kind": "shield",
+      "page": 96,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "backpack",
+      "name": "Backpack",
+      "cost": 5,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "crowbar",
+      "name": "Crowbar",
+      "cost": 10,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "garlic",
+      "name": "Garlic",
+      "cost": 5,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "grappling hook",
+      "name": "Grappling hook",
+      "cost": 25,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "hammer (small)",
+      "name": "Hammer (small)",
+      "cost": 2,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "holy symbol",
+      "name": "Holy symbol",
+      "cost": 25,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "holy water (vial)",
+      "name": "Holy water (vial)",
+      "cost": 25,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "iron spikes (12)",
+      "name": "Iron spikes (12)",
+      "cost": 1,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "lantern",
+      "name": "Lantern",
+      "cost": 10,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "mirror (hand-sized, steel)",
+      "name": "Mirror (hand-sized, steel)",
+      "cost": 5,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "oil (1 flask)",
+      "name": "Oil (1 flask)",
+      "cost": 2,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "pole (10\u2019 long, wooden)",
+      "name": "Pole (10\u2019 long, wooden)",
+      "cost": 1,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "rations (iron, 7 days)",
+      "name": "Rations (iron, 7 days)",
+      "cost": 15,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "rations (standard, 7 days)",
+      "name": "Rations (standard, 7 days)",
+      "cost": 5,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "rope (50\u2019)",
+      "name": "Rope (50\u2019)",
+      "cost": 1,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "sack (large)",
+      "name": "Sack (large)",
+      "cost": 2,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "sack (small)",
+      "name": "Sack (small)",
+      "cost": 1,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "stakes (3) and mallet",
+      "name": "Stakes (3) and mallet",
+      "cost": 3,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "thieves\u2019 tools",
+      "name": "Thieves\u2019 tools",
+      "cost": 25,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "tinder box (flint & steel)",
+      "name": "Tinder box (flint & steel)",
+      "cost": 3,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "torches (6)",
+      "name": "Torches (6)",
+      "cost": 1,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "waterskin",
+      "name": "Waterskin",
+      "cost": 1,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "wine (2 pints)",
+      "name": "Wine (2 pints)",
+      "cost": 1,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "wolfsbane (1 bunch)",
+      "name": "Wolfsbane (1 bunch)",
+      "cost": 10,
+      "weight": 0,
+      "kind": "gear",
+      "page": 94,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "arrows (20)",
+      "name": "Arrows (20)",
+      "cost": 5,
+      "weight": 0,
+      "kind": "ammo",
+      "page": 96,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "crossbow bolts (30)",
+      "name": "Crossbow bolts (30)",
+      "cost": 10,
+      "weight": 0,
+      "kind": "ammo",
+      "page": 96,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "silver tipped arrow (1)",
+      "name": "Silver tipped arrow (1)",
+      "cost": 5,
+      "weight": 0,
+      "kind": "ammo",
+      "page": 96,
+      "damage": "",
+      "qualities": ""
+    },
+    {
+      "id": "sling stones",
+      "name": "Sling stones",
+      "cost": 0,
+      "weight": 0,
+      "kind": "ammo",
+      "page": 96,
+      "damage": "",
+      "qualities": ""
+    }
+  ],
+  "secondarySkills": [
+    {
+      "max": 3,
+      "name": "Animal trainer"
+    },
+    {
+      "max": 5,
+      "name": "Armourer "
+    },
+    {
+      "max": 9,
+      "name": "Baker"
+    },
+    {
+      "max": 12,
+      "name": "Blacksmith "
+    },
+    {
+      "max": 13,
+      "name": "Bookbinder"
+    },
+    {
+      "max": 16,
+      "name": "Bowyer / fletcher"
+    },
+    {
+      "max": 20,
+      "name": "Brewer"
+    },
+    {
+      "max": 23,
+      "name": "Butcher"
+    },
+    {
+      "max": 26,
+      "name": "Carpenter "
+    },
+    {
+      "max": 28,
+      "name": "Chandler"
+    },
+    {
+      "max": 33,
+      "name": "Cooper"
+    },
+    {
+      "max": 35,
+      "name": "Coppersmith"
+    },
+    {
+      "max": 46,
+      "name": "Farmer"
+    },
+    {
+      "max": 50,
+      "name": "Fisher"
+    },
+    {
+      "max": 54,
+      "name": "Furrier"
+    },
+    {
+      "max": 55,
+      "name": "Glassblower"
+    },
+    {
+      "max": 59,
+      "name": "Huntsman"
+    },
+    {
+      "max": 62,
+      "name": "Lapidary / jeweller"
+    },
+    {
+      "max": 66,
+      "name": "Lorimer"
+    },
+    {
+      "max": 67,
+      "name": "Mapmaker"
+    },
+    {
+      "max": 69,
+      "name": "Mason"
+    },
+    {
+      "max": 73,
+      "name": "Miner"
+    },
+    {
+      "max": 76,
+      "name": "Potter"
+    },
+    {
+      "max": 78,
+      "name": "Roper"
+    },
+    {
+      "max": 81,
+      "name": "Seafarer"
+    },
+    {
+      "max": 84,
+      "name": "Shipwright"
+    },
+    {
+      "max": 87,
+      "name": "Tailor"
+    },
+    {
+      "max": 90,
+      "name": "Tanner"
+    },
+    {
+      "max": 93,
+      "name": "Thatcher / roofer"
+    },
+    {
+      "max": 96,
+      "name": "Woodcutter"
+    },
+    {
+      "max": 98,
+      "name": "Vintner"
+    }
+  ],
+  "turning": [
+    {
+      "level": 1,
+      "results": [
+        "7",
+        "9",
+        "11",
+        "\u2013",
+        "\u2013",
+        "\u2013",
+        "\u2013",
+        "\u2013"
+      ]
+    },
+    {
+      "level": 2,
+      "results": [
+        "T",
+        "7",
+        "9",
+        "11",
+        "\u2013",
+        "\u2013",
+        "\u2013",
+        "\u2013"
+      ]
+    },
+    {
+      "level": 3,
+      "results": [
+        "T",
+        "T",
+        "7",
+        "9",
+        "11",
+        "\u2013",
+        "\u2013",
+        "\u2013"
+      ]
+    },
+    {
+      "level": 4,
+      "results": [
+        "D",
+        "T",
+        "T",
+        "7",
+        "9",
+        "11",
+        "\u2013",
+        "\u2013"
+      ]
+    },
+    {
+      "level": 5,
+      "results": [
+        "D",
+        "D",
+        "T",
+        "T",
+        "7",
+        "9",
+        "11",
+        "\u2013"
+      ]
+    },
+    {
+      "level": 6,
+      "results": [
+        "D",
+        "D",
+        "D",
+        "T",
+        "T",
+        "7",
+        "9",
+        "11"
+      ]
+    },
+    {
+      "level": 7,
+      "results": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "T",
+        "T",
+        "7",
+        "9"
+      ]
+    },
+    {
+      "level": 8,
+      "results": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "T",
+        "T",
+        "7"
+      ]
+    },
+    {
+      "level": 9,
+      "results": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "T",
+        "T"
+      ]
+    },
+    {
+      "level": 10,
+      "results": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "T"
+      ]
+    },
+    {
+      "level": 11,
+      "results": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ]
+    }
+  ]
+}
