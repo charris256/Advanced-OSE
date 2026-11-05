@@ -37,7 +37,13 @@ Advanced spell-book copying and weapon specialisation are deliberately disabled,
 
 Rulebook PDFs and full extracted text remain local and are excluded from application assets. The privately supplied character-record template is the exception: its prepared copy is served only by the loopback app and cached for offline printing. Both private/ and output/ are ignored by Git. Do not publish the private rules pack. The app makes no claim of affiliation with Necrotic Gnome.
 
-## Development
+## GitHub Pages deployment
+
+In the GitHub repository, open **Settings → Pages** and select **GitHub Actions** as the source. The included `.github/workflows/deploy-pages.yml` builds and deploys `dist` on every push to `main`; it can also be started from the Actions tab. Do not deploy the repository root: its HTML references development TypeScript sources.
+
+The published URL is https://charris256.github.io/Advanced-OSE/. Relative asset paths support this repository subdirectory. The ignored `private` folder is absent from the GitHub build; users can supply their own PDF template in Print options. Local browser data is separate for the hosted URL and the loopback URL; use JSON export/import to transfer characters.
+
+## Development setup
 
 Run `npm ci` for the local React/Vite and PDF export dependencies (internet or a populated npm cache required).
 
